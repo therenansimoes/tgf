@@ -471,7 +471,7 @@
        display: inline-block;
        vertical-align: top;
        margin: 0 2px;
-       border: 2px solid #818f4a;
+       border: 2px solid #000000;
        border-radius: 100%;
        background-color: transparent;
        height: 13px;
@@ -479,6 +479,9 @@
        -webkit-transition: 0.3s all;
        transition: 0.3s all;
      }
+     .owl-pagination .active{
+      background-color: #818f4a !important;
+    }
      .owl-controls .owl-pagination .owl-page:hover{
        background-color: #f8f8f8;
      }
@@ -574,6 +577,12 @@
        padding: 20px 15px;
        margin: 0;
      }
+     .data .price a{	
+      font-size: 14px;	
+      font-weight: 700;	
+      color: #818f4a;	
+      margin-bottom: 5px;	
+    }
  
    .prateleira .box-item{
      opacity: 1;
