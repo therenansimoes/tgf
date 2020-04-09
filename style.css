@@ -471,7 +471,7 @@
        display: inline-block;
        vertical-align: top;
        margin: 0 2px;
-       border: 2px solid #818f4a;
+       border: 2px solid #000;
        border-radius: 100%;
        background-color: transparent;
        height: 13px;
@@ -524,6 +524,9 @@
        height: auto ! important;
        width: auto ! important;
      }
+     .owl-pagination .active{
+        background-color: #818f4a !important;
+      }
  
  
  /** ************************************************************************************ **/
@@ -580,12 +583,20 @@
      display: block;
      padding: 10px 15px;
      -webkit-transition: 0.3s all; transition: 0.3s all;
-   }
+   }  
+
+  .data .price a{
+    font-size: 14px;
+    font-weight: 700;
+    color: #818f4a;
+    margin-bottom: 5px;
+  }
      .prateleira .product-image{
        display: block;
        margin-bottom: 10px;
        position: relative;
      }
+
      .prateleira .product-image:after{
        background-color: #fff;
        content: "Veja +";
