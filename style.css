@@ -635,14 +635,14 @@
        min-height: 40px;
      }
        .prateleira .product-name a{
-         color: #777;
-         font-size: 14px;
-         font-weight: 400;
-         line-height: 20px;
+          line-height: 20px;
+          font-size: 18px;
+          font-weight: 700;
+          color: #434343;
+          margin-bottom: 10px;
        }
        .prateleira .product-name a:hover{
-         color: #333;
-         text-decoration: none;
+          text-decoration: underline;
        }
      .prateleira .price{
        display: block;
@@ -662,10 +662,11 @@
          }
          .prateleira .price .best-price{
            display: block;
-           color: #D0021B;
-           font-size: 14px;
-           font-weight: 400;
            line-height: 20px;
+           font-size: 14px;
+           font-weight: 700;
+           color: #818f4a;
+          margin-bottom: 5px;
          }
      .prateleira .btn-add-buy-button-asynchronous{
        border-radius: 8px;
