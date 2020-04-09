@@ -1203,12 +1203,12 @@
        .product-description .product-description-box .showcase-default{
          margin: 0;
          padding: 0;
-         width: 24% !important;
+         
        }
        .owl-wrapper-outer .owl-wrapper{
         overflow: hidden;
         position: relative;
-        width: 24% !important;
+        
        }
        .product-description .product-description-box h4,
        .product-description .product-description-box .title,
