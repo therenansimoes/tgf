@@ -527,7 +527,9 @@
        height: auto ! important;
        width: auto ! important;
      }
- 
+     .owl-buttons .owl-prev .fa-chevron-left{
+        color: #000;
+     }
  
  /** ************************************************************************************ **/
  /** *********** PRATELEIRA - SHOWCASE **/
