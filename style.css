@@ -134,7 +134,7 @@
          
    .header{
      padding: 10px 0;
-     background-color: #00000000;
+     background-color: #ffffff;
    }
      .header .button-menu-xs{
        
@@ -171,7 +171,7 @@
            vertical-align: top;
          }
          .header .mini-cart span.badge{
-           background-color: #d0011b;
+           background-color: #818f4a;
            vertical-align: top;
            position: absolute;
            top: -9px;
@@ -471,12 +471,13 @@
        display: inline-block;
        vertical-align: top;
        margin: 0 2px;
-       border: 2px solid #fff;
+       border: 2px solid #818f4a;
        border-radius: 100%;
        background-color: transparent;
        height: 13px;
        width: 13px;
-       -webkit-transition: 0.3s all; transition: 0.3s all;
+       -webkit-transition: 0.3s all;
+       transition: 0.3s all;
      }
      .owl-controls .owl-pagination .owl-page:hover{
        background-color: #f8f8f8;
@@ -1335,7 +1336,7 @@
        border-radius: 0 4px 4px 0;
      }
      .pages li.pgCurrent{
-       background-color: #d0011b;
+       background-color: #818f4a;
        color: #fff;
        cursor: default;
      }
