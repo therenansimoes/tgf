@@ -877,9 +877,12 @@
      margin-bottom: 15px;
      border-bottom: 1px solid #ccc;
    }
+    #comprar-flutuante{
+      display: none !important;
+    }
      #comprar-flutuante .descricao-preco .valor-de,
      .product-details .price-box .descricao-preco .valor-de{
-       display: none;
+       display: block;
        font-style: normal;
        color: #777;
        font-size: 14px;
