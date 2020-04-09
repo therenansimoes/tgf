@@ -527,7 +527,7 @@
        height: auto ! important;
        width: auto ! important;
      }
-     .owl-buttons .owl-prev .fa-chevron-left{
+     .owl-buttons .owl-prev .fa{
         color: #000;
      }
  
@@ -879,7 +879,7 @@
    }
      #comprar-flutuante .descricao-preco .valor-de,
      .product-details .price-box .descricao-preco .valor-de{
-       display: block;
+       display: none;
        font-style: normal;
        color: #777;
        font-size: 14px;
