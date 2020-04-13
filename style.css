@@ -510,9 +510,8 @@
        display: inline-block;
        vertical-align: top;
        margin: 0 2px;
-       background-color: #e1dace !important;
+       background-color: #e1dace;
        border-radius: 100%;
-       background-color: transparent;
        height: 13px;
        width: 13px;
        -webkit-transition: 0.3s all;
