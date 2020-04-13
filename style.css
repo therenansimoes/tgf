@@ -217,7 +217,17 @@
                #mini-cart-admake #mini-cart-admake-total{ color: #000000; font-size: 18px; font-weight: 700; line-height: 20px; font-family: 'Playfair Display';} 
                #mini-cart-admake .mini-cart-totais span{ color: #333; font-size: 17px; font-weight: 400; line-height: 20px; font-family: 'Playfair Display';} 
              #mini-cart-admake .mini-cart-botao{ display: block; margin-top: 10px; } 
-               #mini-cart-admake .mini-cart-botao .btn-finalizar-compra{ font-size: 20px; height: 50px; line-height: 25px; padding: 10px; background-color: #5BB75B;color: #fff;font-weight: 400;} 
+               #mini-cart-admake .mini-cart-botao .btn-finalizar-compra{ 
+                font-size: 1.20em;
+                height: 50px;
+                line-height: 25px;
+                padding: 10px;
+                color: #fff;
+                font-weight: 400;
+                border-radius: 29px;
+                font-family: 'Fairplay Display';
+                text-transform: uppercase;
+              } 
                #mini-cart-admake .mini-cart-botao .btn-finalizar-compra:hover{ opacity: .8; } 
                  
  
