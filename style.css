@@ -177,6 +177,13 @@
            top: -9px;
            right: -15px;
          }
+        #cart-title{
+          display: block;
+          color: #818f4a;
+          font-family: 'Playfair Display';
+          font-weight: 400;
+          font-size: 30px;
+        }
         .cart{
           border: 3px solid #000 !important;
           background-color: #f7f4ef !important;
