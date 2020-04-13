@@ -177,6 +177,14 @@
            top: -9px;
            right: -15px;
          }
+         .cart-template-holder .cart{
+          border: 3px solid #000 !important;
+          background-color: #f7f4ef !important;
+         }
+         .cart-totalizers{
+          border: 3px solid #000 !important;
+          background-color: #f7f4ef !important;
+         }
          #mini-cart-admake{ background-color: #fff; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 -5px 15px #D0D0D0; display: none; position: absolute; top: 34px; right: 15px; width: 320px; z-index: 9999; } 
          .col-mini-cart:hover #mini-cart-admake{ display: block ! important; } 
          #mini-cart-admake:before{ border: 5px solid transparent; border-bottom-color: #fff; display: block; content: ""; position: absolute; top: -10px; right: 30px; } 
