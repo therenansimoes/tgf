@@ -11,7 +11,7 @@
  /******************************************************************************************/
  /************* RESET **/
  /******************************************************************************************/
- span#spnRatingProdutoTop{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+ span#spnRatingProdutoTop{display:none;margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
  body{line-height:1}
  img{ max-width: 100%; }
  article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
@@ -567,6 +567,9 @@
        width: auto ! important;
      }
      .owl-buttons .owl-prev .fa{
+        color: #000;
+     }
+     .owl-buttons .owl-next .fa{
         color: #000;
      }
  
