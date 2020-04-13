@@ -679,16 +679,18 @@
           justify-content: space-between;
          }
      .prateleira .btn-add-buy-button-asynchronous{
-       border-radius: 8px;
-       background-color: #5bb75b;
-       font-size: 14px;
-       font-weight: 700;
-       color: #fff;
-       padding: 10px;
-       display: block;
-       width: 120px;
-       margin: 0 auto;
-       text-decoration: none;
+        border-radius: 28px;
+        background-color: #818f4a;
+        font-size: 14px;
+        color: #fff;
+        padding: 10px;
+        display: block;
+        width: 120px;
+        margin: 0 auto;
+        font-weight: 400;
+        font-family: 'Fairplay Display';
+        text-decoration: none;
+        text-transform: uppercase;
      }
      .prateleira .btn-add-buy-button-asynchronous:hover{
        background-color: #409c40;
