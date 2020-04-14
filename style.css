@@ -2049,7 +2049,7 @@
      margin: 3px;
      padding: 0; 
    }
-   .row-menus .col-xs-6{
+   /* .row-menus .col-xs-6{
       width: auto !important;
    }
    .col-inst-duvidas .row .col-xs-6{
@@ -2057,7 +2057,7 @@
    }
    .col-institucional{
      width: auto !important;
-   } 
+   }  */
    .col-atendimento-social{
     width: 72% !important;
    }
