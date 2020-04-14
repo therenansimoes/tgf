@@ -2049,6 +2049,9 @@
      margin: 3px;
      padding: 0; 
    }
+   .row-menus .col-xs-6{
+      width: auto !important;
+   }
    .col-inst-duvidas .row .col-xs-6{
      width: auto !important;
    }
