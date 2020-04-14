@@ -2049,6 +2049,18 @@
      margin: 3px;
      padding: 0; 
    }
+   .col-inst-duvidas .row .col-xs-6{
+     width: 0% !important;
+   }
+   .col-institucional{
+     width: 43%;
+   } 
+   .col-atendimento-social{
+    width: 72% !important;
+   }
+   .col-pague-com{
+    width: 28% !important;
+   }
      .footer .col-social a{
        display: block;
        width: 34px;
