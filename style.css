@@ -2050,10 +2050,10 @@
      padding: 0; 
    }
    .col-inst-duvidas .row .col-xs-6{
-     width: 0% !important;
+     width: auto !important;
    }
    .col-institucional{
-     width: 43%;
+     width: auto !important;
    } 
    .col-atendimento-social{
     width: 72% !important;
