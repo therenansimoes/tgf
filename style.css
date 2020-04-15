@@ -842,7 +842,7 @@
  /** *********** PRODUTO VIEW **/
  /** ************************************************************************************ **/
  #facebook{
-  display: none;
+  display: none !important;
  }
  .plugin .inlineBlock{
   display: none !important;
