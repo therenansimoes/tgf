@@ -842,10 +842,13 @@
  /** *********** PRODUTO VIEW **/
  /** ************************************************************************************ **/
  .plugin .inlineBlock{
-  display: none;
+  display: none !important;
+ }
+.inlineBlock{
+  display: none !important;
  }
  ._8f1i{
-  display: none;
+  display: none !important;
  }
  .product-details {
   background-color: #f7f4ef;
