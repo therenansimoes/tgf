@@ -2065,7 +2065,17 @@
    .col-pague-com {
     margin-right: 8em;
    }
-   
+   .col-endereco b{
+    color: #818f4a;
+    font-size: 15px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: 'Open Sans',sans-serif;
+   }
+   .col-endereco ul li p{
+    color: #8c8c8c;
+    font-size: 12px;
+   }
    .col-institucional b{
     color: #818f4a;
     font-size: 15px;
