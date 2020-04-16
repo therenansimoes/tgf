@@ -2072,6 +2072,9 @@
     white-space: nowrap;
     font-family: 'Open Sans',sans-serif;
    }
+   .col-endereco{
+    margin-right: 2em;
+   }
    .col-endereco ul li p{
     color: #8c8c8c;
     font-size: 12px;
@@ -2087,6 +2090,9 @@
     color: #8c8c8c;
     font-size: 12px;
    }
+   .col-atendimento{
+    margin-right: 4em;
+   } 
    .col-atendimento b{
     color: #818f4a;
     font-size: 15px;
@@ -2101,6 +2107,9 @@
    .col-atendimento ul li a span{
     color: #8c8c8c;
     font-size: 12px;
+   }
+   .col-pague-com{
+    margin-right: 5em;
    }
    .col-pague-com b{
     color: #818f4a;
