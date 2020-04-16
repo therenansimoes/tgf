@@ -2058,9 +2058,6 @@
      font-weight: 400;
      line-height: 20px;
    }
-   .col-social{
-    margin-left: 8em;
-   }
    .footer .col-social li{
      margin: 3px;
      padding: 0; 
@@ -2068,8 +2065,8 @@
    .col-atendimento-social{
     width: 72% !important;
    }
-   .col-pague-com{
-    
+   .col-pague-com {
+    margin-right: 8em;
    }
      .footer .col-social a{
        display: block;
