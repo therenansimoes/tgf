@@ -74,6 +74,25 @@
      color: #333;
      margin: 5px 0 10px;
    }
+.botaoZoom img{
+  border: 1px solid #3c763d;
+}
+.frete-calcular .bt{
+  width: 7% !important;
+  background-color: #818f4a;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Fairplay Display';
+  color: #fff;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 0px;
+}
+.prefixo .fitext{
+  border-radius: 0px !important;
+}
  .sku-notifyme-button-ok{
   background-color: #818f4a;
   font-size: 13px;
@@ -1247,11 +1266,11 @@
        display: none;
      }
      .product-info .shipping-box label{
-       color: #333;
-       font-size: 12px;
-       font-weight: 700;
-       font-family: sans-serif;
-       line-height: 17px;
+        font-family: 'Fairplay Display';
+        color: #333;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 17px;
      }
        .product-info .shipping-box label .fitext{
          display: block;
