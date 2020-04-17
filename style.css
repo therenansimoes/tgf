@@ -131,10 +131,24 @@
          .welcome-bar .help-menu span strong{
            font-weight: 700;
          }
-         
+      
    .header{
      padding: 10px 0;
      background-color: #ffffff;
+   }
+   .visible-lg{
+    font-family: 'Playfair Display';
+    font-size: 17px;
+    font-weight: 500;
+    color: #404040;
+    line-height: 1;
+   }
+   .hidden-sm{
+    font-family: 'Playfair Display';
+    font-size: 17px;
+    font-weight: 500;
+    color: #404040;
+    line-height: 1;
    }
      .header .button-menu-xs{
        
