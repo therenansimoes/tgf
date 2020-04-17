@@ -805,10 +805,6 @@
  /** ************************************************************************************ **/
  /** *********** BREADCRUMB **/
  /** ************************************************************************************ **/
- #home-content{
-  position: relative;
-  bottom: 3em;
- }
  #box-bread-brumb{
    padding: 0 0 15px;
    position: relative;
@@ -888,10 +884,6 @@
   font-weight: 400 !important;
   font-family: 'Fairplay Display' !important;
 }
- #product-content{
-  position: relative;
-  bottom: 7em;
- }
  .product-image .apresentacao{
    position: relative;
  }
