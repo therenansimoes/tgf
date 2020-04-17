@@ -74,7 +74,18 @@
      color: #333;
      margin: 5px 0 10px;
    }
- 
+ .sku-notifyme-button-ok{
+  background-color: #818f4a;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Fairplay Display';
+  color: #fff;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  margin-right: 0;
+ }
  input, select, textarea{
    color: #999999;
    background-color: #fff;
@@ -90,6 +101,7 @@
    min-height: 34px;
    width: 44%;
    padding: 0px 7px;
+   border-radius: 0px;
  }
  
  /** ************************************************************************************ **/
