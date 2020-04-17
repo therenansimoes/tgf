@@ -352,6 +352,12 @@
      background-color: #f8f8f8;
      padding-left: 0;
      margin-left: 0;
+     width: 83%;
+     float: right;
+     position: relative;
+     bottom: 4em;
+     max-width: 1170px;
+     display: inline-block;
    }
    #top-menu .menu:after{
      content: "";
@@ -365,14 +371,16 @@
          padding: 0;
      }
        #top-menu .menu li a{
-           color: #777777;
-           font-size: 14px;
-           padding: 20px;
-           display: block;
-           text-decoration: none;
+        padding: 20px;
+        display: block;
+        color: #404040;
+        text-decoration: none;
+        font-family: 'Playfair Display';
+        font-size: 17px;
+        font-weight: 400;
        }
        #top-menu .menu li:hover a{
-           background-color: #e7e7e7;
+          transform: translateY(5px);
        }
  
    /** VERSÃƒÆ’O MOBILE **/
