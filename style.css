@@ -345,6 +345,7 @@
  /** ************************************************************************************ **/
  /** *********** TOP MENU **/
  /** ************************************************************************************ **/
+
  #top-menu{
   margin-bottom: -5em; 
  }
@@ -355,7 +356,7 @@
      width: 83%;
      float: right;
      position: relative;
-     bottom: 4em;
+     bottom: 3em;
      max-width: 1170px;
      display: inline-block;
    }
@@ -455,6 +456,10 @@
        width: 100%;
        height: 100%;
        z-index: 10;
+     }
+     .pagin-header{
+      position: relative;
+      top: 2em;
      }
        #menu-mobile .header-menu-mobile{
          display: block;
