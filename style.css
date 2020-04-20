@@ -811,11 +811,14 @@
        padding-top: 10px;
      }
        .compare input{
-         display: inline-block;
-         vertical-align: top;
-         margin: 0 5px 0 0;
-         padding: 0;
-         float: none;
+        display: inline-block;
+        vertical-align: top;
+        margin: 0 5px 0 0;
+        padding: 0;
+        float: none;
+        width: 5%;
+        bottom: 10px;
+        position: relative;
        }
        .compare label{
          display: inline-block;
@@ -921,6 +924,32 @@
  }
  ._8f1i{
   display: none !important;
+ }
+ .sub{
+  background-color: #ede7dd;
+  padding: 10px 20px;
+}
+ .filterBy{
+  width: 26%;
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+ }
+ .filterBy #PS{
+  width: 25%;
+ }
+ .product-off .out-of-stock{
+    display: block;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 800;
+    color: #818f4a;
+    margin-bottom: 5px;
+    font-family: 'Playfair Display';
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1em;
  }
  .product-details {
   background-color: #f7f4ef;
