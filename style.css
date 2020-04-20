@@ -1290,11 +1290,8 @@
        }
      .product-info .shipping-box .freight-btn{
        height: 23px;
-       background: #FFFFFF;
-       border: 1px solid #CCCCCC;
        border-radius: 6px;
        font-size: 14px;
-       color: #262626;
        line-height: 16px;
      }
      .product-info .shipping-box .freight-btn:hover{
