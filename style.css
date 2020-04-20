@@ -662,7 +662,7 @@
      }
    .showcase-default h2{
     color: #818f4a;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 400;
     line-height: 28px;
     padding-bottom: 10px;
@@ -671,6 +671,8 @@
     margin-bottom: 10px;
     align-items: center;
     justify-content: space-between;
+    text-align: center;
+    text-transform: lowercase;
    }
  
    .prateleira.vitrine > ul{
@@ -678,7 +680,13 @@
      margin-right: -15px;
      padding: 0;
    }
- 
+     .n5colunas{
+      width: 100%;
+      min-height: 694px;
+      background: url(/arquivos/bg-destaques.png) center/cover no-repeat;
+      padding: 73px 0 81px;
+      font-family: 'Open Sans';
+     } 
      .prateleira.vitrine > ul > li,
      .n1colunas > ul > li,
      .n2colunas > ul > li,
