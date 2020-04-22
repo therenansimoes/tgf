@@ -409,13 +409,14 @@
    #top-menu .menu{
      /* background-color: #f8f8f8; */
      padding-left: 0;
-     margin-left: 0;
-     width: 83%;
-     float: right;
-     position: relative;
-     bottom: 4em;
-     max-width: 1170px;
-     display: inline-block;
+    margin-left: 0;
+    margin-right: 4em;
+    width: 80%;
+    float: right;
+    position: relative;
+    bottom: 4em;
+    max-width: 1170px;
+    display: inline-block;
    }
    #top-menu .menu:after{
      content: "";
