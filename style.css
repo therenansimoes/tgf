@@ -2181,6 +2181,10 @@
  .institucional-lateral{
   width: 16em;
   font-family: 'Open Sans';
+  border: 5px solid #e2dcd7;
+  border-radius: 6px;
+  padding: 30px;
+  height: 0%;
  }
  .institucional-lateral ul{
     border-radius: 6px;
