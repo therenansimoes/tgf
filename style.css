@@ -2156,6 +2156,20 @@
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
  /** ************************************************************************************ **/
+ .container h2{
+  font-size: 3.4em;
+  font-weight: 400;
+  text-transform: lowercase;
+  text-align: center;
+  color: #404040;
+  margin: 8px 0px 1px 0px;
+  position: relative;
+  display: inline-block;
+  font-family: 'Playfair Display',serif;
+ }
+ .bread-crumb ul li a span{
+   display: none;
+ }
  .institucional-wrap{
   width: 100%;
   max-width: 1170px;
