@@ -2156,6 +2156,48 @@
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
  /** ************************************************************************************ **/
+ .institucional-wrap{
+  width: 100%;
+  max-width: 1170px;
+  margin: auto;
+  padding: 63px 0 100px;
+  display: flex;
+  flex-wrap: wrap;
+ }
+ .institucional-lateral{
+  width: 16em;
+  font-family: 'Open Sans';
+ }
+ .institucional-lateral ul{
+    border: 5px solid #e2dcd7;
+    border-radius: 6px;
+    padding: 30px;
+ }
+ .institucional-lateral ul{
+    border: 5px solid #e2dcd7;
+    border-radius: 6px;
+    padding: 30px;
+  }
+  .institucional-lateral h2{
+    font-size: 24px;
+    font-weight: 400;
+    color: #818f4a;
+    font-family: 'Playfair Display';
+    margin-bottom: 25px;
+  }
+  .institucional-lateral h2{
+    list-style-type: none;
+    color: black !important;
+  }
+  .institucional-wrap .conteudo{
+    width: 74.4%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    margin-left: 26px;
+  }
  .titulo-institucional{
    font-size: 18px;
    color: #333;
