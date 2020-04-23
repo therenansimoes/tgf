@@ -2185,9 +2185,18 @@
     font-family: 'Playfair Display';
     margin-bottom: 25px;
   }
-  .institucional-lateral h2{
+  .institucional-lateral li{
     list-style-type: none;
     color: black !important;
+  }
+  .institucional-lateral li a{
+    font-size: 15px;
+    font-weight: 400;
+    color: #404040;
+    margin-bottom: 15px;
+    display: block;
+    transition: all .3s;
+    text-decoration: none;
   }
   .institucional-wrap .conteudo{
     width: 74.4%;
@@ -2206,7 +2215,7 @@
    padding-bottom: 10px;
    margin-bottom: 20px;
  }
-   .conteudo-institucional{
+   .conteudo .institucional-wrap{
      color: #333;
      font-size: 14px;
      font-weight: 400;
