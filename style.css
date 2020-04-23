@@ -1012,7 +1012,7 @@ textarea {
     align-items: center !important;
     justify-content: space-between !important;
     text-align: center !important;
-    text-transform: uppercase!important;
+    text-transform: lowercase!important;
 }
 
 .n5colunas ul li {
