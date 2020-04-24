@@ -2154,7 +2154,38 @@
      .rating-wrapper .rating.a0:before {
        content: "\f006   \f006   \f006   \f006   \f006";
      }
- 
+     .sobre {
+        width: 100%;
+        max-width: 768px;
+        margin: 80px auto 130px;
+        font-family: 'Open Sans';
+      }
+      .sobre h2 {
+        font-size: 24px;
+        font-weight: 400;
+        color: #404040;
+        margin-bottom: 5px;
+        font-family: 'Playfair Display';
+        text-align: center;
+        line-height: 1;
+      }
+      .sobre h3 {
+        font-size: 38.1px;
+        font-weight: 300;
+        color: #818f4a;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+      .sobre .two-columns {
+        column-count: 2;
+      }
+      .sobre p {
+        font-size: 13px;
+        font-weight: 400;
+        color: #404040;
+        line-height: 1.6;
+        margin-bottom: 20px;
+      }
  
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
