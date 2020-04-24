@@ -1548,7 +1548,7 @@
    display: block;
    text-align: le;
  }
- .showcase-default .pager .pages{
+ .showcase-owl .pager .pages{
   display: none;
 }
    .pager.top{
