@@ -2187,7 +2187,70 @@
         line-height: 1.6;
         margin-bottom: 20px;
       }
- 
+      .conheca-o-clube {
+        width: 100%;
+        min-height: 508px;
+        font-family: 'Open Sans';
+      }
+      .flex {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .conheca-o-clube .left {
+        width: 50%;
+        height: 508px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+      }
+      .conheca-o-clube .right {
+        width: 50%;
+        min-height: 508px;
+        background-color: #e1dace;
+        padding-left: 5%;
+      }
+      .flex.align-center {
+        align-items: center;
+      }
+      .conheca-o-clube .right>div {
+        max-width: 477px;
+      }
+      .conheca-o-clube h2 {
+        font-size: 54.8px;
+        font-weight: 400;
+        color: #262626;
+        font-family: 'Playfair Display';
+        margin-bottom: 20px;
+      }
+      .conheca-o-clube h3 {
+        font-size: 20px;
+        font-weight: 300;
+        color: #404040;
+        margin-bottom: 20px;
+      }
+      .conheca-o-clube p {
+        font-size: 13px;
+        font-weight: 400;
+        color: #404040;
+        line-height: 1.6;
+        margin-bottom: 10px;
+      }
+      .conheca-o-clube a {
+        width: 182px;
+        height: 46px;
+        display: block;
+        border: 1px solid #c5bbab;
+        font-size: 14px;
+        font-weight: 900;
+        font-family: 'Playfair Display';
+        color: #847966;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        transition: all .3s;
+    }
+      
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
  /** ************************************************************************************ **/
