@@ -2361,7 +2361,7 @@
 .box-categoria a:hover {
   text-decoration: none;
 }
-.box-banner a img{
+#main-content #departament-banner .box-banner a img{
   display: none;
 }
  /** ************************************************************************************ **/
