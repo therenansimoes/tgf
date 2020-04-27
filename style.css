@@ -2285,6 +2285,7 @@
       font-family: 'Playfair Display' !important;
       padding-left: 10% !important;
       margin-bottom: 10px !important;
+      text-align: -webkit-auto !important;
     }
     .box-categoria p {
       font-size: 16px;
