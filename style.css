@@ -2312,6 +2312,32 @@
   display: inline-block;
   margin-left: 4%;
 }
+.formulario-home form {
+  display: flex;
+}
+.formulario-home form input {
+  padding: 20px;
+  max-width: 39%;
+  width: 100%;
+  margin-right: .5rem;
+  border: 1px solid #e5e5e5;
+}
+.formulario-home form input[type=submit] {
+  width: 20%;
+  margin-left: .5rem;
+  padding: 20px;
+  background-color: #818f4a;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Fairplay Display';
+  color: #fff;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  margin-right: 0;
+}
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
  /** ************************************************************************************ **/
