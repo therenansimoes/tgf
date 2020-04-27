@@ -664,18 +664,18 @@
        height: 40px;
      }
    .showcase-default h2{
-    color: #818f4a;
-    font-size: 30px;
-    font-weight: 400;
-    line-height: 28px;
-    padding-bottom: 10px;
-    font-family: 'Playfair Display';
-    display: block;
-    margin-bottom: 10px;
-    align-items: center;
-    justify-content: space-between;
-    text-align: center;
-    text-transform: lowercase;
+    color: #818f4a !important;
+    font-size: 30px !important;
+    font-weight: 400 !important;
+    line-height: 28px !important;
+    padding-bottom: 10px !important;
+    font-family: 'Playfair Display' !important;
+    display: block !important;
+    margin-bottom: 10px !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    text-align: center !important;
+    text-transform: lowercase !important;
    }
  
    .prateleira.vitrine > ul{
