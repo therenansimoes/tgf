@@ -2361,7 +2361,7 @@
  /** ************************************************************************************ **/
  /** *********** INSTITUCIONAL **/
  /** ************************************************************************************ **/
- .container h2{
+ /* .container h2{
   font-size: 3.4em;
   font-weight: 400;
   text-transform: lowercase;
@@ -2371,7 +2371,7 @@
   position: relative;
   display: inline-block;
   font-family: 'Playfair Display',serif;
- }
+ } */
  .bread-crumb ul li a span{
    display: none;
  }
