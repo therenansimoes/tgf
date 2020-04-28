@@ -819,9 +819,6 @@
         text-decoration: none;
         text-transform: uppercase;
      }
-     .prateleira .btn-add-buy-button-asynchronous:hover{
-       background-color: #409c40;
-     }
        .prateleira .btn-add-buy-button-asynchronous .fa{
          margin-left: 5px;
        }
