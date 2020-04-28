@@ -1603,6 +1603,12 @@
     font-weight: 700;
     display: none;
    }
+   .resultado-busca-filtro fieldset{
+    font-weight: 700;
+   }
+   .compare fieldset label{
+     display: none !important;
+   }
      .resultado-busca-filtro .compare strong{
        padding: 0 5px;
        font-weight: 700;
