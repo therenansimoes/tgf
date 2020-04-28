@@ -1003,7 +1003,7 @@
      z-index: 9999;
    }
      .product-image .apresentacao .thumbs li{
-       display: inline-block;
+       display: inline-block !important;
        vertical-align: top;
        margin: 0 8px;
      }
@@ -2705,20 +2705,16 @@
      position: relative;
    }
      .product-image .apresentacao .thumbs{
-        position: absolute;
-        left: 2em;
-        top: 37em;
-        display: inline-block;
-        width: 100%;
-        float: left;
-        margin: 0;
-        height: auto;
-        overflow: hidden;
-        text-align: left;
+      position: absolute;
+      padding: 0em 92px;
+      width: 100%;
+      float: left;
+      margin: 0;
+      overflow: hidden;
+      text-align: left;
      }
        .product-image .apresentacao .thumbs li{
-         display: block;
-         margin: 8px 0;
+        float: left;
        }
  
    .prateleira.vitrine > ul > li,
@@ -2882,9 +2878,27 @@
   margin-top: 3em;
  }
  .c-on-base .vtex-pageHeader__title{
-   color: #818f4a
+   color: #818f4a;
+   font-family: 'Playfair Display',serif;
  }
  .c-on-base{
   font-family: 'Playfair Display',serif;
  }
- 
+ .vtex-account__menu-links{
+  font-family: 'Playfair Display',serif;
+ }
+ .vtex-account__user-greeting span{
+  font-family: 'Playfair Display',serif;
+ }
+ .vtex-account_menu-link span{
+  font-family: 'Playfair Display',serif;
+ }
+ .align-baseline font font{
+  font-family: 'Playfair Display',serif;
+ }
+ .c-action-primary {
+  color: #3f3f40 !important;
+}
+.hover-bg-action-secondary:hover {
+  background-color: #f1f1f1 !important;
+}
