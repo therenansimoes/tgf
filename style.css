@@ -2881,7 +2881,10 @@
   text-align: center !important;
   margin-top: 3em;
  }
- .c-on-base{
+ .c-on-base .vtex-pageHeader__title{
    color: #818f4a
+ }
+ .c-on-base{
+  font-family: 'Playfair Display',serif;
  }
  
