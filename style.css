@@ -1603,10 +1603,10 @@
     font-weight: 700;
     display: none;
    }
-   .resultado-busca-filtro fieldset{
-    font-weight: 700;
+   .resultado-busca-filtro .filterBy{
+    font-weight: 700 !important;
    }
-   .compare fieldset label{
+   .compare fieldset{
      display: none !important;
    }
      .resultado-busca-filtro .compare strong{
