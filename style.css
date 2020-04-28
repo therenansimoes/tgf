@@ -2858,7 +2858,12 @@
  .modal-footer .btn-group .btn + .btn {
    margin-left: -1px;
  }
- 
+ .sign-in .btn-group .btn:active{
+  background-image: none !important;
+  outline: 0 !important;
+  -webkit-box-shadow: white !important;
+  box-shadow: none !important;
+ }
  .modal-footer .btn-block + .btn-block {
    margin-left: 0;
  }
