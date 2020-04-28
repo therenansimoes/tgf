@@ -2867,4 +2867,18 @@
  .modal-footer .btn-block + .btn-block {
    margin-left: 0;
  }
+ #login-content .vtex-msg-oms-return-callcenter{
+  color: #818f4a !important;
+  font-size: 30px !important;
+  font-weight: 400 !important;
+  line-height: 13px !important;
+  padding-bottom: 10px !important;
+  font-family: 'Playfair Display' !important;
+  display: block !important;
+  margin-bottom: 10px !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  text-align: center !important;
+  margin-top: 3em;
+ }
  
