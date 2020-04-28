@@ -2701,17 +2701,23 @@
    #image-main{
     height: 37em;
    }
+   .box-fotos{
+    width: 72%;
+    min-width: 400px;
+    margin-right: 1%;
+    margin-left: 111px;
+   }
    .product-image .apresentacao{
      position: relative;
    }
      .product-image .apresentacao .thumbs{
       position: absolute;
-      padding: 0em 92px;
       width: 100%;
       float: left;
       margin: 0;
       overflow: hidden;
       text-align: left;
+      margin-top: 1em;
      }
        .product-image .apresentacao .thumbs li{
         float: left;
