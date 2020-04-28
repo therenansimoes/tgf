@@ -1005,7 +1005,7 @@
      .product-image .apresentacao .thumbs li{
        display: inline-block !important;
        vertical-align: top;
-       margin: 0 8px;
+       margin: 0 2px;
      }
        .product-image .apresentacao .thumbs a{
          display: block;
