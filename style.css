@@ -2962,3 +2962,15 @@
   color: #3f3f40 !important;
   font-family: 'Playfair Display',serif !important;
 }
+.vtex-account__page-body .pr5-ns{
+  margin-left: 3em;
+}
+.vtex-input .vtex-input__label{
+  font-family: 'Fairplay Display' !important;
+}
+.vtex-profile-form__toggle-business-btn__wrapper .fw5{
+  color: #818f4a;
+  background-color: #e3e4e663;
+  border-color: #0000003d;
+  border: 1px solid;
+}
