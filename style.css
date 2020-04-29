@@ -2937,9 +2937,9 @@
   color: #818f4a;
 }
 .flex-ns .vtex-button{
-  color: #818f4a !important;
-  background-color: #f7f4ef !important;
-  border-color: #000000 !important;
+  color: #818f4a;
+  background-color: #f7f4ef;
+  border-color: #000000;
   font-size: 14px !important;
   font-weight: 400 !important;
   font-family: 'Fairplay Display' !important;
