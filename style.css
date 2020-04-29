@@ -2925,3 +2925,11 @@
 .b--action-primary {
   border-color: #818f4a !important;
 }
+.vtex-account__page-body .flex-row-ns{
+  margin-left: 4em;
+}
+.items-center .c-on-base{
+  position: relative;
+  left: 19px;
+  bottom: 5px;
+}
