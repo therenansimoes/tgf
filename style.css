@@ -2974,3 +2974,12 @@
   border-color: #0000003d;
   border: 1px solid;
 }
+.vtex-profile-form__profile-container__wrapper .bg-action-primary{
+  color: #818f4a !important;
+  background-color: #e3e4e663 !important;
+  border-color: #0000003d !important;
+  border: 1px solid !important;
+}
+.br2 .gray{
+  font-family: 'Fairplay Display' !important;
+}
