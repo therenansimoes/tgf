@@ -2913,3 +2913,15 @@
 .hover-bg-action-secondary:hover {
   background-color: #f1f1f1 !important;
 }
+.vtex-pageHeader__children a button{
+  color: #818f4a !important;
+  background-color: #f7f4ef !important;
+  border-color: #000000 !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  font-family: 'Fairplay Display' !important;
+  border: 1px solid;
+}
+.b--action-primary {
+  border-color: #818f4a !important;
+}
