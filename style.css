@@ -2934,7 +2934,10 @@
   bottom: 5px;
 }
 .flex-none .c-link{
-  color: #818f4a;
+  color: #818f4a !important;
+  font-family: 'Fairplay Display' !important;
+  font-size: 15px !important;
+  font-weight: 400 !important;
 }
 .flex-ns .hover-bg-action-primary{
   color: #818f4a;
@@ -2954,4 +2957,8 @@
   color: #818f4a !important;
   font-family: 'Fairplay Display' !important;
   font-weight: 400 !important;
+}
+.t-heading-3 span{
+  color: #3f3f40 !important;
+  font-family: 'Playfair Display',serif !important;
 }
