@@ -2933,3 +2933,25 @@
   left: 19px;
   bottom: 5px;
 }
+.flex-none c-link{
+  color: #818f4a;
+}
+.flex-ns .vtex-button{
+  color: #818f4a !important;
+  background-color: #f7f4ef !important;
+  border-color: #000000 !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  font-family: 'Fairplay Display' !important;
+  border: 1px solid;
+}
+.ml5-ns .vtex-button{
+  font-family: 'Fairplay Display' !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+.t-heading-4 span{
+  color: #818f4a !important;
+  font-family: 'Fairplay Display' !important;
+  font-weight: 400 !important;
+}
