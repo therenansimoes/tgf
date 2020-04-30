@@ -3001,7 +3001,7 @@ textarea {
 
 /** ************************************************************************************ **/
 
-.container.text-center h2 {
+.container>.text-center h2 {
     font-size: 3.4em;
     font-weight: 400;
     text-transform: lowercase;
