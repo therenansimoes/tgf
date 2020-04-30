@@ -3686,3 +3686,9 @@ textarea {
 .br2 .gray {
     font-family: 'Fairplay Display' !important;
 }
+.justify-between .ph7 .bg-action-primary{
+    color: #818f4a !important;
+    background-color: #e3e4e663 !important;
+    border-color: #0000003d !important;
+    border: 1px solid !important;
+}
