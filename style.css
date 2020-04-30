@@ -2199,7 +2199,7 @@
       }
       .flex {
         display: flex;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
       }
       .conheca-o-clube .left {
         width: 50%;
