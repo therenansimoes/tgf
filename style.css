@@ -659,13 +659,16 @@ textarea {
 #top-menu .menu {
     /* background-color: #f8f8f8; */
     padding-left: 0;
-    width: 83%;
     float: right;
     position: relative;
+    font-family: 'Playfair Display' !important;
     bottom: 4em;
-    max-width: 1134px;
-    min-width: 82%;
-    display: inline-block;
+    width: 100%;
+    max-width: 1102px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    min-width: 84.5%;
 }
 
 #top-menu .menu:after {
