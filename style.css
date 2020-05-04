@@ -3001,7 +3001,7 @@ textarea {
 
 /** ************************************************************************************ **/
 
-.container>.text-center h2 {
+.container.text-center h2 {
     display: inline-flex !important;
     font-family: hevetica !important;
     font-size: 53px !important;
