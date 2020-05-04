@@ -3002,15 +3002,11 @@ textarea {
 /** ************************************************************************************ **/
 
 .container>.text-center h2 {
-    font-size: 3.4em;
-    font-weight: 400;
-    text-transform: lowercase;
-    text-align: center;
-    color: #404040;
-    margin: 8px 0px 1px 0px;
-    position: relative;
-    display: inline-block;
-    font-family: 'Playfair Display', serif;
+    display: inline-flex !important;
+    font-family: hevetica !important;
+    font-size: 53px !important;
+    position: relative !important;
+    bottom: 0.5em !important;
 }
 
 .bread-crumb ul li a span {
@@ -3686,7 +3682,8 @@ textarea {
 .br2 .gray {
     font-family: 'Fairplay Display' !important;
 }
-.justify-between .ph7 .bg-action-primary{
+
+.justify-between .ph7 .bg-action-primary {
     color: #818f4a !important;
     background-color: #e3e4e663 !important;
     border-color: #0000003d !important;
