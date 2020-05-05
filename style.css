@@ -334,6 +334,24 @@ textarea {
     line-height: 1;
 }
 
+.compre-gin {
+    margin-top: 25px;
+    width: 182px;
+    height: 46px;
+    background-color: #818f4a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 900;
+    font-family: 'Playfair Display';
+    color: #fff;
+    text-transform: uppercase;
+    margin-right: auto!important;
+    margin-left: auto!important;
+    text-decoration: none !important;
+}
+
 .header .button-menu-xs {}
 
 .header .button-menu-xs .btn {}
@@ -3619,9 +3637,11 @@ textarea {
 .vtex-account__page-body .flex-row-ns {
     margin-left: 4em;
 }
-.vtex-account__page-body{
+
+.vtex-account__page-body {
     width: 784px;
 }
+
 .items-center .c-on-base {
     position: relative;
     left: 19px;
