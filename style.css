@@ -355,6 +355,15 @@ textarea {
     bottom: 11em;
 }
 
+.installment {
+    font-style: inherit;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.Price em {
+    font-style: inherit;
+}
+
 .header .button-menu-xs {}
 
 .header .button-menu-xs .btn {}
