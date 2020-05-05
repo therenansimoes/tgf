@@ -360,7 +360,7 @@ textarea {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-em {
+.newPrice em {
     font-style: inherit !important;
 }
 
