@@ -360,8 +360,8 @@ textarea {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.Price a span em {
-    font-style: inherit;
+em {
+    font-style: inherit !important;
 }
 
 .header .button-menu-xs {}
