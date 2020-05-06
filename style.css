@@ -1439,6 +1439,8 @@ textarea {
 
 .product-info {
     margin-left: 3em;
+    background-color: #fff;
+    height: 100%;
 }
 
 .product-details .product-name {
@@ -3418,6 +3420,9 @@ textarea {
         min-width: 400px;
         margin-right: 1%;
         margin-left: 111px;
+    }
+    .product-image{
+        margin-top: 0px;
     }
     .product-image .apresentacao {
         position: relative;
