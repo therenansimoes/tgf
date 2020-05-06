@@ -1575,7 +1575,7 @@ textarea {
 
 .sku-notifyme-form p {
     color: #333 !important;
-    background-color: #f7f4ef !important;
+    
     font-size: 16px !important;
     font-weight: 400 !important;
     font-family: 'Fairplay Display';
@@ -1727,7 +1727,7 @@ textarea {
     font-family: 'Fairplay Display';
     color: #fff;
     text-transform: uppercase;
-    display: flex !important;
+    /* display: flex !important; */
     border-radius: 50px;
     justify-content: center;
     align-items: center;
