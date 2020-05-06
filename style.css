@@ -1727,12 +1727,15 @@ textarea {
     font-family: 'Fairplay Display';
     color: #fff;
     text-transform: uppercase;
-    /* display: flex !important; */
     border-radius: 50px;
     justify-content: center;
     align-items: center;
     transition: all .3s;
     text-decoration: none;
+    position: absolute;
+    left: 10em;
+    text-align: center;
+    padding: 1em;
 }
 
 #comprar-flutuante .buy-button.buy-button-ref {
