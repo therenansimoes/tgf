@@ -1361,8 +1361,10 @@ textarea {
 }
 
 .product-details {
+    min-height: 762px;
     background-color: #f7f4ef;
-    padding: 30px 0px !important;
+    padding: 105px 0 50px;
+    font-family: 'Open Sans';
 }
 
 .btn-group .btn-default {
@@ -1437,9 +1439,8 @@ textarea {
 }
 
 .product-info {
-    margin-left: 3em;
     background-color: #fff;
-    height: 100%;
+    padding: 85px 65px;
 }
 
 .product-details .product-name {
