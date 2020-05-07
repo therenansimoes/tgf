@@ -185,7 +185,14 @@
      margin: 0 ! important;
      width: 100% ! important;
  }
- 
+ .row.inner-container {
+  max-width: 1470px;
+  margin: 0 auto;
+}
+
+section#content {
+  background-color: #f7f4ef;
+}
  .vtex-bootstrap .alert {
      width: 100% ! important;
  }
@@ -1066,9 +1073,11 @@
  .prateleira .box-item {
      opacity: 1;
      display: block;
-     padding: 10px 15px;
+     padding: 30px 15px;
      -webkit-transition: 0.3s all;
      transition: 0.3s all;
+     background: #FFFFFF;
+     height: 473px;
  }
  
  .prateleira .product-image {
@@ -2151,7 +2160,7 @@
  .resultado-busca-filtro>fieldset {
      display: inline-block;
      vertical-align: top;
-     color: #333;
+     color: #4d4d4d;
      font-size: 13px;
      font-weight: 300;
      line-height: 30px;
@@ -2168,6 +2177,7 @@
      max-width: 100%;
      margin-bottom: 5px;
      font-weight: 700;
+     border-radius: 6px;
  }
  
  .navigation-tabs {
