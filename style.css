@@ -1077,7 +1077,7 @@ section#content {
      -webkit-transition: 0.3s all;
      transition: 0.3s all;
      background: #FFFFFF;
-     height: 433px;
+     height: 400px;
  }
  
  .prateleira .product-image {
@@ -3476,7 +3476,7 @@ section#content {
      .n4colunas>ul>li,
      .n5colunas>ul>li {
          width: 33.3333%;
-         padding: 15px;
+         padding: 18px 15px 0 15px;
      }
  }
  
