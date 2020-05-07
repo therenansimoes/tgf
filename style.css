@@ -391,7 +391,11 @@ section#content {
  .header .logo a:hover {
      opacity: .6;
  }
- 
+ .mini-cart-xs{
+    float: right;
+    position: relative;
+    bottom: 8em;
+ }
  .header .mini-cart {
      position: relative;
  }
