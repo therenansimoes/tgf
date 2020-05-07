@@ -1073,11 +1073,11 @@ section#content {
  .prateleira .box-item {
      opacity: 1;
      display: block;
-     padding: 30px 15px;
+     padding: 30px 35px;
      -webkit-transition: 0.3s all;
      transition: 0.3s all;
      background: #FFFFFF;
-     height: 473px;
+     height: 433px;
  }
  
  .prateleira .product-image {
@@ -1128,6 +1128,8 @@ section#content {
  .prateleira .product-name {
      display: block;
      min-height: 40px;
+     text-align: left;
+     padding: 10px 0;
  }
  
  .prateleira .product-name a {
@@ -1148,6 +1150,7 @@ section#content {
  .prateleira .price {
      display: block;
      padding: 5px 0;
+     text-align: left;
  }
  
  .prateleira .price a {
@@ -1364,7 +1367,7 @@ section#content {
      font-family: 'Playfair Display';
      align-items: center;
      justify-content: space-between;
-     margin-top: 1em;
+     text-align: left;
  }
  
  .product-details {
