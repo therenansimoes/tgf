@@ -3623,7 +3623,12 @@ section#content {
  .modal-footer .btn-block+.btn-block {
      margin-left: 0;
  }
- 
+ .btn-login{
+    float: right !important;
+ }
+ .btn-whats{
+    float: left !important;
+ }
  #login-content .vtex-msg-oms-return-callcenter {
      color: #818f4a !important;
      font-size: 30px !important;
