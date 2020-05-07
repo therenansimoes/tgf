@@ -1382,7 +1382,16 @@
      font-weight: 400 !important;
      font-family: 'Fairplay Display' !important;
  }
- 
+  .inner-product-content {
+    max-width: 1470px;
+    margin: 0 auto;
+  }
+
+  section#product-content {
+    width: 100%;
+    display: block;
+    background-color: #f7f4ef;
+  }
  .product-image .apresentacao {
      position: relative;
  }
@@ -1390,6 +1399,7 @@
  .product-details .product-image {
      min-height: 360px;
      position: relative;
+     background: #FFFFFF;
  }
  
  .product-image .apresentacao {
@@ -3419,7 +3429,9 @@
      .box-fotos {
          min-width: 400px;
          margin-right: 1%;
-         margin-left: 111px;
+         margin-left: 0;
+         height: 100%;
+         background: white;
      }
      .product-image{
          margin-top: 0px;
