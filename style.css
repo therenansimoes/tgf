@@ -1361,7 +1361,6 @@
  .product-details {
      min-height: 762px;
      background-color: #f7f4ef;
-     padding: 105px 0 50px;
      font-family: 'Open Sans';
  }
  
@@ -1399,7 +1398,6 @@
  .product-details .product-image {
      min-height: 360px;
      position: relative;
-     background: #FFFFFF;
  }
  
  .product-image .apresentacao {
@@ -1440,6 +1438,7 @@
  
  .product-image .apresentacao .thumbs a {
      display: block;
+     border: solid 1px #333;
  }
  
  .product-image .apresentacao .thumbs a:hover {
@@ -1448,7 +1447,7 @@
  
  .product-info {
      background-color: #fff;
-     padding: 85px 65px;
+     padding: 29px 29px;
  }
  
  .product-details .product-name {
@@ -3424,14 +3423,14 @@
          right: auto;
      }
      #image-main {
-         height: 37em;
+         width:100%;
+         height:auto;
      }
      .box-fotos {
          min-width: 400px;
          margin-right: 1%;
          margin-left: 0;
          height: 100%;
-         background: white;
      }
      .product-image{
          margin-top: 0px;
@@ -3440,17 +3439,23 @@
          position: relative;
      }
      .product-image .apresentacao .thumbs {
-         position: absolute;
+         /* position: absolute; */
          width: 100%;
-         float: left;
+         /* float: left; */
          margin: 0;
          overflow: hidden;
-         text-align: left;
+         text-align: center;
          margin-top: 1em;
      }
      .product-image .apresentacao .thumbs li {
          float: left;
      }
+     .product-image .apresentacao .thumbs {
+}
+.product-image .apresentacao #include {
+    background: #FFFFFF;
+    padding:50px;
+}
      .prateleira.vitrine>ul>li,
      .n1colunas>ul>li,
      .n2colunas>ul>li,
