@@ -391,7 +391,11 @@ section#content {
  .header .logo a:hover {
      opacity: .6;
  }
- 
+ .mini-cart-xs{
+    float: right;
+    position: relative;
+    bottom: 8em;
+ }
  .header .mini-cart {
      position: relative;
  }
@@ -1371,9 +1375,10 @@ section#content {
  }
  
  .product-details {
-     min-height: 762px;
+     /* min-height: 762px; */
      background-color: #f7f4ef;
      font-family: 'Open Sans';
+     padding: 30px 0;
  }
  
  .btn-group .btn-default {
