@@ -3622,9 +3622,9 @@ section#content {
  .modal-footer .btn-block+.btn-block {
      margin-left: 0;
  }
- .btn-login{
+ /* .btn-login{
     float: right !important;
- }
+ } */
  .btn-whats{
     float: left !important;
  }
