@@ -3623,10 +3623,10 @@ section#content {
      margin-left: 0;
  }
  .btn-login{
-    float: right;
+    float: right !important;
  }
  .btn-whats{
-    float: left;
+    float: left !important;
  }
  #login-content .vtex-msg-oms-return-callcenter {
      color: #818f4a !important;
