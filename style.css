@@ -451,7 +451,7 @@ section#content {
      display: none;
      position: absolute;
      top: 34px;
-     right: 15px;
+     right: -1px;
      width: 320px;
      z-index: 9999;
  }
