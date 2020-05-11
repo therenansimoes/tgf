@@ -3074,12 +3074,13 @@ section#product-content {
 
 /** ************************************************************************************ **/
 
-.container.text-center h2 {
+
+/* .container.text-center h2 {
     display: inline-flex !important;
     font-family: hevetica !important;
     font-size: 53px !important;
     position: relative !important;
-}
+} */
 
 .bread-crumb ul li a span {
     display: none;
