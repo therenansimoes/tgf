@@ -1146,18 +1146,11 @@ textarea {
 }
 
 .prateleira .product-name a {
-    line-height: 20px;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 700;
     color: #434343;
     margin-bottom: 10px;
-    font-family: 'Playfair Display';
-    align-items: center;
-    justify-content: space-between;
-}
-
-.prateleira .product-name a:hover {
-    text-decoration: underline;
+    line-height: 20px;
 }
 
 .prateleira .price {
@@ -1181,15 +1174,10 @@ textarea {
 }
 
 .prateleira .price .best-price {
-    display: block;
-    line-height: 20px;
     font-size: 14px;
-    font-weight: 800;
+    font-weight: 700;
     color: #818f4a;
     margin-bottom: 5px;
-    font-family: 'Playfair Display';
-    align-items: center;
-    justify-content: space-between;
 }
 
 .prateleira .btn-add-buy-button-asynchronous {
@@ -1311,21 +1299,13 @@ textarea {
     display: none;
 }
 
-#box-bread-brumb li a {
-    color: #fff;
-    font-size: 34px;
-    font-weight: 300;
-    text-decoration: none;
-    color: white;
-    vertical-align: middle;
-}
-
-#box-bread-brumb li a:hover {
-    color: #000;
-}
-
 #box-bread-brumb li strong a {
-    color: #ffffff;
+    font-size: 55px;
+    font-weight: 400;
+    font-family: 'Playfair Display',serif;
+    text-transform: lowercase;
+    text-align: center;
+    color: #404040;
 }
 
 
