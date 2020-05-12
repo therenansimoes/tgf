@@ -1275,7 +1275,12 @@ textarea {
     height: 8em;
     text-align: center;
     margin-bottom: 20px;
-    padding-top: 35px
+    padding-top: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 0;
+}
+@media (max-height: 800px) #box-bread-brumb {
+    background-position-x: -772px;
 }
 
 #box-bread-brumb ul {
