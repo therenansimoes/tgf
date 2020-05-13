@@ -273,9 +273,7 @@
  
  /** ************************************************************************************ **/
  
- .header-container {
-     box-shadow: 0 0 11px 0 rgba(0,0,0,.5);
- }
+ 
  
  .welcome-bar {
      background-color: #f8f8f8;
@@ -1084,7 +1082,9 @@
      margin-bottom: 5px;
  }
  
- 
+ .descricao-preco .valor-dividido{
+    margin-top: 10px;
+ }
  
  .prateleira .product-image {
      display: block;
