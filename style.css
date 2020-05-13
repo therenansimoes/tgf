@@ -1083,15 +1083,7 @@ textarea {
     margin-bottom: 5px;
 }
 
-.prateleira .box-item {
-    opacity: 1;
-    display: block;
-    padding: 30px 35px;
-    -webkit-transition: 0.3s all;
-    transition: 0.3s all;
-    background: #FFFFFF;
-    height: 400px;
-}
+
 
 .prateleira .product-image {
     display: block;
@@ -1124,15 +1116,7 @@ textarea {
     opacity: 1;
 }
 
-.prateleira .product-image img {
-    display: block;
-    max-width: 100%;
-    height: auto ! important;
-    width: auto ! important;
-    margin: 0 auto;
-    -webkit-transition: 0.3s all;
-    transition: 0.3s all;
-}
+
 
 .prateleira .box-item:hover img {
     opacity: .5;
