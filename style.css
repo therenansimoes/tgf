@@ -1239,16 +1239,7 @@ textarea {
 
 /** ************************************************************************************ **/
 
-#box-bread-brumb {
-    display: block;
-    background-image: url('https://theginflavors.myvtex.com/arquivos/header.png');
-    height: 8em;
-    text-align: center;
-    margin-bottom: 20px;
-    padding-top: 35px;
-    background-repeat: no-repeat;
-    padding: 10px 0;
-}
+
 @media (max-height: 800px) #box-bread-brumb {
     background-position-x: -772px;
 }
@@ -1275,12 +1266,7 @@ textarea {
 }
 
 #box-bread-brumb li strong a {
-    font-size: 55px;
-    font-weight: 400;
-    font-family: 'Playfair Display',serif;
-    text-transform: lowercase;
-    text-align: center;
-    color: #404040;
+    display: none;
 }
 
 
