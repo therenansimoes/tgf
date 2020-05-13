@@ -1164,23 +1164,10 @@ textarea {
 }
 
 .prateleira .btn-add-buy-button-asynchronous {
-    border-radius: 28px;
-    background-color: #818f4a;
-    font-size: 14px;
-    color: #fff;
-    padding: 10px;
-    display: block;
-    width: 120px;
-    margin: 0 auto;
-    font-weight: 400;
-    font-family: 'Fairplay Display';
-    text-decoration: none;
-    text-transform: uppercase;
+    display: none;
 }
 
-.prateleira .btn-add-buy-button-asynchronous .fa {
-    margin-left: 5px;
-}
+
 
 .compare {
     display: block;
