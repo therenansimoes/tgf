@@ -1157,6 +1157,10 @@ textarea {
     background: white;
 }
 
+.prateleira .vitrine .n12colunas {
+    height: 36em;
+}
+
 .prateleira .price a {
     display: block;
     text-decoration: none;
