@@ -1132,8 +1132,10 @@ textarea {
 .prateleira .product-name {
     display: block;
     min-height: 40px;
-    padding: 10px 0px 0px 32px;
-    max-width: 21em;
+    padding: 7px 0px 0px 30px;
+    max-width: 20em;
+    position: relative;
+    right: 1em;
 }
 
 .prateleira .product-name a {
@@ -1150,8 +1152,7 @@ textarea {
 }
 
 .owl-item .gin {
-    margin-right: 16px;
-    margin-left: 3em;
+    margin-left: 1.7em;
 }
 
 .owl-item li {
