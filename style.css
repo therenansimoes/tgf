@@ -363,9 +363,10 @@ textarea {
 
 .installment {
     font-style: inherit;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: flow-root;
     padding-top: 7px;
+    font-family: 'Open Sans';
+    color: black;
 }
 
 .newPrice em {
@@ -1161,7 +1162,8 @@ textarea {
 }
 
 .prateleira .price .best-price {
-    font-size: 14px;
+    font-size: 18px;
+    font-family: 'Open Sans';
     font-weight: 700;
     color: #818f4a;
     margin-bottom: 5px;
