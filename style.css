@@ -1097,6 +1097,7 @@ textarea {
     display: block;
     margin-bottom: 10px;
     position: relative;
+    padding-top: 9px;
 }
 
 .prateleira .product-image:after {
@@ -1154,7 +1155,7 @@ textarea {
 
 .owl-item li {
     background: white;
-    height: 25em;
+    height: 26em;
 }
 
 .showcase-default .prateleira {
