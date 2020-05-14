@@ -1129,7 +1129,6 @@ textarea {
 .prateleira .product-name {
     display: block;
     min-height: 40px;
-    text-align: left;
     padding: 10px 0;
 }
 
@@ -1144,7 +1143,6 @@ textarea {
 .prateleira .price {
     display: block;
     padding: 5px 0;
-    text-align: left;
 }
 
 .prateleira .price a {
