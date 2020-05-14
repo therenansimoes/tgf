@@ -364,6 +364,8 @@ textarea {
 .installment {
     font-style: inherit;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flow-root;
+    padding-top: 7px;
 }
 
 .newPrice em {
