@@ -1039,8 +1039,8 @@ textarea {
 }
 
 .box-item .product-image img {
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 15em;
+    max-height: 15em;
 }
 
 .prateleira.vitrine>ul {
