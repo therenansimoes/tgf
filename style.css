@@ -1151,11 +1151,14 @@ textarea {
 
 .owl-item {
     margin-right: 19px;
+    width: 284px;
 }
 
 .owl-item li {
     background: white;
     height: 26em;
+    padding-top: 9px;
+    width: 20em;
 }
 
 .showcase-default .prateleira {
