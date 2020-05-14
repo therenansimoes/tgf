@@ -1150,8 +1150,9 @@ textarea {
 }
 
 .owl-item {
-    margin-right: 19px;
-    width: 270px;
+    margin-right: 16px;
+    width: 284px !important;
+    margin-left: 2em;
 }
 
 .owl-item li {
