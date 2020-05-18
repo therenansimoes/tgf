@@ -898,17 +898,20 @@ textarea {
     position: relative;
     padding: 0;
 }
-.owl-carousel .owl-item{
+
+.owl-carousel .owl-item {
     float: none !important;
     display: inline-block !important;
 }
-.owl-wrapper{
+
+.owl-wrapper {
     display: inline-block !important;
 }
-.owl-carousel .owl-wrapper-outer{
+
+.owl-carousel .owl-wrapper-outer {
     display: inline-block !important;
 }
-    
+
 .owl-controls .owl-pagination {
     height: 0;
     position: absolute;
@@ -1139,9 +1142,11 @@ textarea {
     visibility: visible;
     opacity: 1;
 }
-.owl-item li .box-item{
+
+.owl-item li .box-item {
     margin: 0px auto;
 }
+
 .prateleira .box-item:hover img {
     opacity: .5;
 }
@@ -1167,6 +1172,7 @@ textarea {
     display: block;
     padding: 5px 0;
 }
+
 
 /* .owl-item .gin {
     margin-left: 1.7em;
@@ -1698,7 +1704,7 @@ section#product-content {
     text-align: center;
     height: 100%;
     width: 35%;
-    background-color: #f7f4ef;
+    background-color: white;
     color: #818f4a;
 }
 
