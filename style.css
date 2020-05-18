@@ -1044,7 +1044,7 @@ textarea {
     text-align: center !important;
     text-transform: capitalize !important;
     position: relative;
-    top: 6px;
+    top: 1em;
 }
 
 .box-item .product-image img {
@@ -1055,6 +1055,8 @@ textarea {
 .prateleira.vitrine>ul {
     margin-right: -15px;
     padding: 0;
+    position: relative;
+    top: 4em;
 }
 
 .n5colunas {
@@ -1169,7 +1171,7 @@ textarea {
 }
 
 .showcase-default .prateleira {
-    height: 36em;
+    height: 41em;
 }
 
 .prateleira .price a {
