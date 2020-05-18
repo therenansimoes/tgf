@@ -1176,9 +1176,9 @@ textarea {
     background: white;
     height: 26em;
     padding-top: 9px;
-    width: 20em;
+    width: 80%;
     display: inline-flex;
-    margin: 0em 50px !important;
+    margin: 0em 40px !important;
 }
 
 .showcase-default .prateleira {
