@@ -358,6 +358,7 @@ textarea {
     text-decoration: none !important;
     bottom: 5em;
     position: relative;
+    color: #ffffff !important;
 }
 
 .installment {
