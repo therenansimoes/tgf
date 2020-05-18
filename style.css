@@ -1159,15 +1159,16 @@ textarea {
     padding: 5px 0;
 }
 
-.owl-item .gin {
+/* .owl-item .gin {
     margin-left: 1.7em;
-}
+} */
 
 .owl-item li {
     background: white;
     height: 26em;
     padding-top: 9px;
     width: 20em;
+    margin: 0px auto !important;
 }
 
 .showcase-default .prateleira {
