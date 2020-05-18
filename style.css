@@ -1139,7 +1139,7 @@ textarea {
     visibility: visible;
     opacity: 1;
 }
-.gin .box-item{
+.owl-item li .box-item{
     margin: 0px auto;
 }
 .prateleira .box-item:hover img {
