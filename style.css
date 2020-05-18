@@ -1179,6 +1179,7 @@ textarea {
     height: 26em;
     padding-top: 9px;
     width: 20em;
+    display: inline-flex;
     margin: 0px auto !important;
 }
 
