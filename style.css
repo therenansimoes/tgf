@@ -898,7 +898,17 @@ textarea {
     position: relative;
     padding: 0;
 }
-
+.owl-carousel .owl-item{
+    float: none !important;
+    display: inline-block !important;
+}
+.owl-wrapper{
+    display: inline-block !important;
+}
+.owl-carousel .owl-wrapper-outer{
+    display: inline-block !important;
+}
+    
 .owl-controls .owl-pagination {
     height: 0;
     position: absolute;
@@ -1057,6 +1067,7 @@ textarea {
     padding: 0;
     position: relative;
     top: 4em;
+    display: inline-block !important;
 }
 
 .n5colunas {
