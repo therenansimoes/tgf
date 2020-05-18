@@ -1043,6 +1043,8 @@ textarea {
     justify-content: space-between !important;
     text-align: center !important;
     text-transform: capitalize !important;
+    position: relative;
+    top: 6px;
 }
 
 .box-item .product-image img {
