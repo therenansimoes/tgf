@@ -2225,6 +2225,7 @@
      text-decoration: none;
  }
  
+ #admake-advanced-filter>.box-filtro.filtro-marca { display:none}
  #admake-advanced-filter>.box-filtro {
      border-bottom: 1px solid #E5E5E5;
      padding: 15px 20px;
