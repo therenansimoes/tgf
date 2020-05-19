@@ -909,6 +909,7 @@
  
  .owl-carousel .owl-wrapper-outer {
      display: inline-block !important;
+     height: 28em;
  }
  
  .owl-controls .owl-pagination {
@@ -1050,14 +1051,12 @@
      align-items: center !important;
      justify-content: space-between !important;
      text-align: center !important;
-     text-transform: capitalize !important;
-     /* position: relative; */
-     /* top: 1em; */
+     text-transform: capitalize !important; 
      padding-top: 1em;
  }
  
  .box-item .product-image img {
-     /* max-width: 15em; */
+     max-width: 15em; 
      max-height: 15em;
  }
  
@@ -1179,9 +1178,9 @@
      background: white;
      height: 26em;
      padding-top: 9px;
-     width: 80%;
+     width: 87%;
      display: inline-flex;
-     margin: 0em 33px !important;
+     margin: 0em 13px !important;
      box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .1);
  }
  
@@ -1911,8 +1910,9 @@
  }
  
  .owl-wrapper-outer .owl-wrapper {
-     overflow: hidden;
-     position: relative;
+     /* position: relative; */
+     height: 28em;
+     overflow-x: hidden;
  }
  
  .product-description .product-description-box h4,
