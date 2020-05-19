@@ -1365,9 +1365,9 @@
      color: #818f4a;
      margin-bottom: 5px;
      font-family: 'Playfair Display';
-     align-items: center;
-     justify-content: space-between;
-     text-align: center;
+     /* align-items: center; */
+     /* justify-content: space-between; */
+     /* text-align: center; */
  }
  
  .product-details {
@@ -3483,7 +3483,7 @@
          padding: 18px 15px 0 18px;
          box-shadow: 0 6px 6px 0 rgba(0, 0, 0, .1);
          background: white;
-         height: 409px;
+         height: 379px;
          margin: 13px 14px 0 0;
      }
  }
