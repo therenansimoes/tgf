@@ -1183,8 +1183,18 @@
      margin-bottom: 5px;
  }
  
- .prateleira .btn-add-buy-button-asynchronous {
+ /* .prateleira .btn-add-buy-button-asynchronous {
      display: none;
+ } */
+
+ .wrapper-buy-button-asynchronous .add a{
+    cursor: pointer;
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    display: inline-block;
+    top: 5em;
+    left: 6em;
  }
  
  .compare {
