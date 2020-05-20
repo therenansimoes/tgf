@@ -1116,31 +1116,6 @@
      padding-top: 9px;
  }
  
- .prateleira .product-image:after {
-     background-color: #fff;
-     content: "Veja +";
-     font: 40 12px/14px "Helvetica Neue", Helvetica, Arial, sans-serif;
-     color: #000;
-     padding: 5px 0;
-     border: 1px solid #ccc;
-     border-radius: 4px;
-     width: 66px;
-     height: 28px;
-     position: absolute;
-     left: 50%;
-     top: 50%;
-     margin: -14px 0 0 -33px;
-     visibility: hidden;
-     opacity: 0;
-     -webkit-transition: 0.3s all;
-     transition: 0.3s all;
- }
- 
- .prateleira .box-item:hover .product-image:after {
-     visibility: visible;
-     opacity: 1;
- }
- 
  .owl-item li .box-item {
      margin: 0px auto;
  }
