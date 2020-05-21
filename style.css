@@ -1126,7 +1126,6 @@
  
  .prateleira .product-name {
      display: block;
-     min-height: 40px;
      padding: 7px 0px 0px 0px;
      position: relative;
  }
@@ -1176,6 +1175,12 @@
      text-decoration: line-through;
  }
  .wrapper-buy-button-asynchronous{
+     position: absolute;
+     bottom: 13px;
+     width: 87%;
+     text-align: center;
+ }
+ .showcase-owl .wrapper-buy-button-asynchronous{
      position: absolute;
      bottom: 13px;
      width: 100%;
