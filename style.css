@@ -363,7 +363,6 @@
  .installment {
      font-style: inherit;
      display: flow-root;
-     padding-top: 7px;
      font-family: 'Open Sans';
      color: black;
  }
@@ -740,7 +739,7 @@
      color: #6e6d4c;
      text-decoration: none;
      font-family: 'Playfair Display';
-     font-size: 18px;
+     font-size: 14px;
      font-weight: 400;
  }
  
@@ -1056,8 +1055,8 @@
  }
  
  .box-item .product-image img {
-     max-width: 15em; 
-     max-height: 15em;
+     max-width: 100%;
+     max-height: 14em;
  }
  
  .prateleira.vitrine>ul {
@@ -1116,42 +1115,14 @@
      padding-top: 9px;
  }
  
- .prateleira .product-image:after {
-     background-color: #fff;
-     content: "Veja +";
-     font: 40 12px/14px "Helvetica Neue", Helvetica, Arial, sans-serif;
-     color: #000;
-     padding: 5px 0;
-     border: 1px solid #ccc;
-     border-radius: 4px;
-     width: 66px;
-     height: 28px;
-     position: absolute;
-     left: 50%;
-     top: 50%;
-     margin: -14px 0 0 -33px;
-     visibility: hidden;
-     opacity: 0;
-     -webkit-transition: 0.3s all;
-     transition: 0.3s all;
- }
- 
- .prateleira .box-item:hover .product-image:after {
-     visibility: visible;
-     opacity: 1;
- }
- 
  .owl-item li .box-item {
      margin: 0px auto;
+     max-width: 80%;
  }
  
- .prateleira .box-item:hover img {
-     opacity: .5;
- }
  
  .prateleira .product-name {
      display: block;
-     min-height: 40px;
      padding: 7px 0px 0px 0px;
      position: relative;
  }
@@ -1166,7 +1137,6 @@
  
  .prateleira .price {
      display: block;
-     padding: 5px 0 0 0px;
  }
  
  
@@ -1176,12 +1146,13 @@
  
  .owl-item li {
      background: white;
-     height: 26em;
+     height: 27em;
      padding-top: 9px;
      width: 87%;
      display: inline-flex;
      margin: 0em 13px !important;
-     box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .1);
+     box-shadow: 0px 4px 5px 0 rgba(0, 0, 0, .1);
+     position: relative;
  }
  
  
@@ -1199,7 +1170,18 @@
      line-height: 18px;
      text-decoration: line-through;
  }
- 
+ .wrapper-buy-button-asynchronous{
+     position: absolute;
+     bottom: 13px;
+     width: 87%;
+     text-align: center;
+ }
+ .showcase-owl .wrapper-buy-button-asynchronous{
+     position: absolute;
+     bottom: 13px;
+     width: 100%;
+     text-align: center;
+ }
  .prateleira .price .best-price {
      font-size: 18px;
      font-family: 'Open Sans';
@@ -1208,8 +1190,20 @@
      margin-bottom: 5px;
  }
  
- .prateleira .btn-add-buy-button-asynchronous {
+ /* .prateleira .btn-add-buy-button-asynchronous {
      display: none;
+ } */
+
+ .wrapper-buy-button-asynchronous .add a{
+    padding: 11px 0px;
+    margin: 2px auto;
+    display: block;
+    color: #fff;
+    background-color: #7fbc44;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,.15) 0 5px 10px 0;
+    width: 93%;
+    text-align: center;
  }
  
  .compare {
@@ -3480,8 +3474,9 @@
          padding: 18px 15px 0 18px;
          box-shadow: 0 6px 6px 0 rgba(0, 0, 0, .1);
          background: white;
-         height: 379px;
+         height: 420px;
          margin: 13px 14px 0 0;
+         position: relative;
      }
  }
  
