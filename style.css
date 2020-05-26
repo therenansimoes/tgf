@@ -363,7 +363,6 @@
  .installment {
      font-style: inherit;
      display: flow-root;
-     padding-top: 7px;
      font-family: 'Open Sans';
      color: black;
  }
@@ -1141,7 +1140,6 @@
  
  .prateleira .price {
      display: block;
-     padding: 5px 0 0 0px;
  }
  
  
