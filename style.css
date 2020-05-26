@@ -1120,9 +1120,6 @@
      max-width: 80%;
  }
  
- .prateleira .box-item:hover img {
-     opacity: .5;
- }
  
  .prateleira .product-name {
      display: block;
