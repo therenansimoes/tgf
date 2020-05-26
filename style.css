@@ -1199,13 +1199,13 @@
 
  .wrapper-buy-button-asynchronous .add a{
     padding: 11px 0px;
-    margin: 10px auto 0;
+    margin: 10px 0 0 0;
     display: block;
     color: #fff;
     background-color: #7fbc44;
     border-radius: 5px;
     box-shadow: rgba(0,0,0,.15) 0 5px 10px 0;
-    width: 94%;
+    width: 98%;
     text-align: center;
  }
  
