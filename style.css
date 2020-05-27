@@ -1128,11 +1128,20 @@
  }
  
  .prateleira .product-name a h2{
-     font-size: 16px;
-     font-weight: 700;
-     color: #434343;
-     margin-bottom: 0px;
-     line-height: 20px;
+     font-size: 16px !important;
+     font-weight: 700 !important;
+     color: #434343 !important;
+     margin: -21px auto !important;
+     line-height: 20px !important;
+     text-align: left !important;
+ }
+ .n4colunas ul li .box-item .product-name a h2{
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    color: #434343 !important;
+    margin-top: 3px !important;
+    margin-bottom: 0px !important;
+    line-height: 20px !important;
  }
  
  .prateleira .price {
