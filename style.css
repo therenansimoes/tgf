@@ -1127,11 +1127,11 @@
      position: relative;
  }
  
- .prateleira .product-name a {
+ .prateleira .product-name a h2{
      font-size: 16px;
      font-weight: 700;
      color: #434343;
-     margin-bottom: 10px;
+     margin-bottom: 0px;
      line-height: 20px;
  }
  
