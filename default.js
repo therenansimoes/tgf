@@ -20,7 +20,8 @@
 	$('.col-mini-cart').ADMAKEminiCart({
 		miniCartQtd : '.mini-cart-qty-admake',
 	});
-    $('ul.menu').prepend(" <li class='menu-gin'> <a href='https://www.theginflavors.com.br/clube'>Clube do Gin</a></li>")
+	$('ul.menu').prepend(" <li class='menu-gin'> <a href='https://www.theginflavors.com.br/clube'>Clube do Gin</a></li>")
+	$('ul.menu').append(" <li class='menu-gin'> <a href='https://blog.theginflavors.com.br'>Blog</a></li>")
 	var $btnComprar = $('.btn-add-buy-button-asynchronous');
 	if( $btnComprar.length ){
 		$btnComprar.html('Comprar <i class="fa fa-lock"></i>');
