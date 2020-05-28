@@ -1056,8 +1056,8 @@
  
  .box-item .product-image img {
      max-width: 85%;
-     max-height: 14em;
      margin: 0px 20px;
+     height: auto;
  }
  
  .prateleira.vitrine>ul {
@@ -3484,7 +3484,7 @@
          padding: 18px 15px 0 18px;
          box-shadow: 0 6px 6px 0 rgba(0, 0, 0, .1);
          background: white;
-         height: 420px;
+         height: 370px;
          margin: 13px 14px 0 0;
          position: relative;
      }
