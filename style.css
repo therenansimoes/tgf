@@ -1055,8 +1055,9 @@
  }
  
  .box-item .product-image img {
-     max-width: 100%;
+     max-width: 85%;
      max-height: 14em;
+     margin: 0px 20px;
  }
  
  .prateleira.vitrine>ul {
