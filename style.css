@@ -1163,11 +1163,11 @@
  
  .owl-item li {
      background: white;
-     height: 27em;
+     height: 28em;
      padding-top: 9px;
      width: 87%;
      display: inline-flex;
-     margin: 0em 13px !important;
+     margin: 0em 21px !important;
      box-shadow: 0px 4px 5px 0 rgba(0, 0, 0, .1);
      position: relative;
  }
