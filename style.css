@@ -137,7 +137,14 @@
      -moz-box-sizing: border-box;
      box-sizing: border-box;
  }
- 
+.conteudo-institucional .pagin-header .container h2{
+    font-size: 55px;
+    font-weight: 400;
+    font-family: 'Playfair Display',serif;
+    text-transform: lowercase;
+    text-align: center;
+    color: #404040;
+}
  span {
      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
  }
