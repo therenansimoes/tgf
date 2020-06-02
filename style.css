@@ -1050,14 +1050,13 @@
      font-size: 30px !important;
      font-weight: 400 !important;
      line-height: 27px !important;
-     padding-bottom: 21px !important;
      font-family: 'Playfair Display' !important;
      display: block !important;
      margin-bottom: 10px !important;
      align-items: center !important;
      justify-content: space-between !important;
      text-align: center !important;
-     text-transform: capitalize !important; 
+     text-transform: capitalize !important;
      padding-top: 1em;
  }
  
@@ -1125,7 +1124,7 @@
  
  .owl-item li .box-item {
      margin: 0px auto;
-     max-width: 80%;
+     max-width: 76%;
  }
  
  
@@ -1139,7 +1138,7 @@
      font-size: 16px !important;
      font-weight: 700 !important;
      color: #434343 !important;
-     margin: -21px auto !important;
+     margin: 0px auto !important;
      line-height: 20px !important;
      text-align: left !important;
  }
