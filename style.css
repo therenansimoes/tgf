@@ -3058,9 +3058,14 @@
  .box-categoria a:hover {
      text-decoration: none;
  }
- 
+ #main-content #departament-banner   { 
+     text-align: center;
+     margin:15px 0px;
+ }
  #main-content #departament-banner .box-banner a img {
-     display: none;
+     /* display: none; */
+     margin: 0 auto;
+     text-align: center;
  }
  
  
