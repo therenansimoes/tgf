@@ -904,6 +904,13 @@ textarea {
     .conheca-o-clube .right>div {
         display: contents;
     }
+    .conheca-o-clube a {
+        position: relative;
+        right: 10px;
+    }
+    .conheca-o-clube .left {
+        height: 700px !important;
+    }
 }
 
 
