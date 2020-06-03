@@ -906,14 +906,21 @@ textarea {
     }
     .conheca-o-clube a {
         position: relative;
-        right: 10px;
+        right: 7px;
+        font-size: 13px !important;
     }
     .conheca-o-clube .left {
-        height: 700px !important;
+        height: inherit !important;
     }
     .box-categoria {
         display: inline-flex;
         width: 100% !important;
+    }
+    .box-categoria>div {
+        width: 100% !important;
+        margin-bottom: 40px;
+        z-index: 1;
+        margin-top: inherit !important;
     }
     .formulario-home form input[type=submit] {
         width: 100% !important;
