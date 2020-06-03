@@ -924,6 +924,7 @@ textarea {
         color: #fff;
         text-transform: uppercase;
         border: none;
+        margin-left: 11px !important;
     }
     .formulario-home form input {
         padding: 20px;
