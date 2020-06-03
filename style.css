@@ -895,7 +895,7 @@ textarea {
 
 @media (max-width: 576px) {
     .conheca-o-clube h2 {
-        font-size: 31.8px;
+        font-size: 31.8px !important;
         font-weight: 400;
         color: #262626;
         font-family: 'Playfair Display';
