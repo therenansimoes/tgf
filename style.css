@@ -911,6 +911,33 @@ textarea {
     .conheca-o-clube .left {
         height: 700px !important;
     }
+    .box-categoria {
+        display: inline-flex;
+        width: 100% !important;
+    }
+    .formulario-home form input[type=submit] {
+        width: 100%;
+        background-color: #818f4a;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Fairplay Display';
+        color: #fff;
+        text-transform: uppercase;
+        border: none;
+    }
+    .formulario-home form input {
+        padding: 20px;
+        max-width: 100%;
+        width: 100%;
+        margin: 10px;
+        margin-right: .5rem;
+        border: 1px solid #e5e5e5;
+    }
+    .formulario-home #footer-news {
+        width: 86% !important;
+        margin: 0px auto;
+        display: inline-grid !important;
+    }
 }
 
 
