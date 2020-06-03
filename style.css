@@ -3242,6 +3242,7 @@ section#product-content {
 .col-endereco ul li p {
     color: #8c8c8c;
     font-size: 12px;
+    line-height: 19px;
 }
 
 .col-institucional b {
