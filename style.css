@@ -916,7 +916,7 @@ textarea {
         width: 100% !important;
     }
     .formulario-home form input[type=submit] {
-        width: 100%;
+        width: 100% !important;
         background-color: #818f4a;
         font-size: 14px;
         font-weight: 400;
@@ -927,10 +927,10 @@ textarea {
     }
     .formulario-home form input {
         padding: 20px;
-        max-width: 100%;
+        max-width: 100% !important;
         width: 100%;
         margin: 10px;
-        margin-right: .5rem;
+        margin-right: 3px !important;
         border: 1px solid #e5e5e5;
     }
     .formulario-home #footer-news {
