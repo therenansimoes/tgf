@@ -893,6 +893,19 @@ textarea {
     }
 }
 
+@media (max-width: 576px) {
+    .conheca-o-clube h2 {
+        font-size: 31.8px;
+        font-weight: 400;
+        color: #262626;
+        font-family: 'Playfair Display';
+        margin-bottom: 20px;
+    }
+    .conheca-o-clube .right>div {
+        display: contents;
+    }
+}
+
 
 /** ************************************************************************************ **/
 
