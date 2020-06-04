@@ -392,8 +392,8 @@ textarea {
 }
 
 .header .logo img {
-    width: 160px;
-    margin-left: 3em;
+    width: 65%;
+    margin-left: 0em;
 }
 
 .header .logo a {
