@@ -903,7 +903,9 @@ textarea {
     }
     .conheca-o-clube .right>div {
         display: contents;
-        width: 100%;
+    }
+    .conheca-o-clube .right {
+        width: 100% !important;
     }
     .conheca-o-clube a {
         position: relative;
