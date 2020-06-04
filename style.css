@@ -385,7 +385,7 @@ textarea {
 
 .header .button-menu-xs .btn {}
 
-.header .button-menu-xs .btn:hover {}
+. .header .button-menu-xs .btn:hover {}
 
 .header .logo {
     text-align: center;
@@ -1352,30 +1352,33 @@ textarea {
 
 /** ************************************************************************************ **/
 
-@media (max-height: 800px) {
-    #box-bread-brumb {
-        background-position-x: -772px;
-    }
-    #box-bread-brumb ul {
-        display: block;
-        padding-left: 0;
-    }
-    #box-bread-brumb li {
-        display: block;
-        vertical-align: middle;
-        margin: 0 5px 0 0;
-        padding: 0;
-    }
-    #box-bread-brumb li:first-of-type {
-        display: none;
-    }
-    #box-bread-brumb li:first-child:before {
-        content: "";
-        display: none;
-    }
-    #box-bread-brumb li strong a {
-        display: none;
-    }
+@media (max-height: 800px) #box-bread-brumb {
+    background-position-x: -772px;
+}
+
+#box-bread-brumb ul {
+    display: block;
+    padding-left: 0;
+}
+
+#box-bread-brumb li {
+    display: block;
+    vertical-align: middle;
+    margin: 0 5px 0 0;
+    padding: 0;
+}
+
+#box-bread-brumb li:first-of-type {
+    display: none;
+}
+
+#box-bread-brumb li:first-child:before {
+    content: "";
+    display: none;
+}
+
+#box-bread-brumb li strong a {
+    display: none;
 }
 
 
@@ -3094,28 +3097,20 @@ section#product-content {
     margin-right: 0;
 }
 
-@media (min-width: 1200px) {
-    .container {
-        max-width: 1140px;
-    }
+@media (min-width: 1200px) .container {
+    max-width: 1140px;
 }
 
-@media (min-width: 992px) {
-    .container {
-        max-width: 960px;
-    }
+@media (min-width: 992px) .container {
+    max-width: 960px;
 }
 
-@media (min-width: 768px) {
-    .container {
-        max-width: 720px;
-    }
+@media (min-width: 768px) .container {
+    max-width: 720px;
 }
 
-@media (min-width: 576px) {
-    .container {
-        max-width: 540px;
-    }
+@media (min-width: 576px) .container {
+    max-width: 540px;
 }
 
 .formulario-home #footer-news {
