@@ -895,11 +895,14 @@ textarea {
 
 @media (max-width: 576px) {
     .conheca-o-clube h2 {
-        font-size: 27.8px !important;
+        font-size: 33.8px !important;
         font-weight: 400;
         color: #262626;
         font-family: 'Playfair Display';
-        margin-bottom: 20px;
+        margin-bottom: 0;
+    }
+    .conheca-o-clube h3 {
+        margin-bottom: 0;
     }
     .conheca-o-clube .right>div {
         display: contents;
