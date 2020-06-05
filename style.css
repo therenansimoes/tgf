@@ -997,9 +997,6 @@ textarea {
 
 @media (max-device-width: 1024px) {
     .wrapperAmountInCart {
-        position: relative;
-        top: 63px;
-        left: 18px;
         margin-bottom: 4em;
         bottom: none !important;
     }
