@@ -1011,12 +1011,20 @@ textarea {
         display: block;
         padding: 7px 0px 0px 2px !important;
         position: relative;
-        width: 19em !important;
+        width: 10em !important;
+        right: 2vh;
     }
     .prateleira .price {
         display: block;
         position: relative;
         left: 24px;
+    }
+    .n4colunas ul li {
+        width: 22.3333% !important;
+        padding: 55px 17px 0px 14px !important;
+    }
+    .prateleira.n4colunas {
+        width: 105% !important;
     }
 }
 
