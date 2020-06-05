@@ -995,8 +995,10 @@ textarea {
     }
 }
 
-@media (max-device-width: 1024px) {
+
+/* @media (max-device-width: 1024px) {
     .wrapperAmountInCart {
+
         margin-bottom: 4em;
         bottom: none !important;
     }
@@ -1023,7 +1025,7 @@ textarea {
     .prateleira.n4colunas {
         width: 105% !important;
     }
-}
+} */
 
 
 /** ************************************************************************************ **/
