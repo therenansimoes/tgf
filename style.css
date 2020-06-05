@@ -970,6 +970,7 @@ textarea {
     .product-name a {
         position: relative;
         left: 1.5em;
+        padding: 7px 0px 3px 2px !important;
     }
     .n4colunas ul li {
         display: inline-block;
