@@ -1003,6 +1003,16 @@ textarea {
         margin-bottom: 4em;
         bottom: none !important;
     }
+    .product-name a {
+        position: relative;
+        left: 1.5em;
+    }
+    .prateleira .product-name {
+        display: block;
+        padding: 7px 0px 0px 2px !important;
+        position: relative;
+        width: 19em !important;
+    }
 }
 
 
