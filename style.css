@@ -957,8 +957,8 @@ textarea {
 @media (max-width: 576px) {
     .wrapperAmountInCart {
         position: relative;
-        top: 62px;
-        left: 14px;
+        top: 63px;
+        left: 18px;
         margin-bottom: 4em;
         bottom: none !important;
     }
@@ -970,6 +970,16 @@ textarea {
     .product-name a {
         position: relative;
         left: 1.5em;
+    }
+    .n4colunas ul li {
+        display: inline-block;
+        vertical-align: top;
+        width: 100%;
+        padding: 20px 15px;
+        margin: 0;
+        margin-top: 2vh;
+        margin-bottom: 4vh !important;
+        background-color: white;
     }
 }
 
