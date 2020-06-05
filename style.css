@@ -952,8 +952,9 @@ textarea {
         margin: 0px auto;
         display: inline-grid !important;
     }
-    .prateleira.n4colunas {
+    .prateleira.n4colunas ul li {
         margin-top: 23px;
+        padding-top: 3em;
     }
 }
 
