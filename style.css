@@ -993,43 +993,14 @@ textarea {
     #main-content #departament-banner .box-banner a img {
         display: none !important;
     }
-    #main-content #departament-banner {
-        text-align: center;
-        margin: 15px 0px;
-        display: none !important;
-    }
 }
 
 
-/* @media (max-device-width: 1024px) {
-    .wrapperAmountInCart {
+/* @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) { 
 
-        margin-bottom: 4em;
-        bottom: none !important;
-    }
-    .product-name a {
-        position: relative;
-        left: 1.5em;
-    }
-    .prateleira .product-name {
-        display: block;
-        padding: 7px 0px 0px 2px !important;
-        position: relative;
-        width: 10em !important;
-        right: 2vh;
-    }
-    .prateleira .price {
-        display: block;
-        position: relative;
-        left: 24px;
-    }
-    .n4colunas ul li {
-        width: 22.3333% !important;
-        padding: 55px 17px 0px 14px !important;
-    }
-    .prateleira.n4colunas {
-        width: 105% !important;
-    }
 } */
 
 
