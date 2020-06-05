@@ -984,6 +984,9 @@ textarea {
     .owl-carousel .owl-wrapper-outer {
         left: 4px !important;
     }
+    #main-content #departament-banner .box-banner a img {
+        display: none !important;
+    }
 }
 
 
