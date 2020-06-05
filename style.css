@@ -970,7 +970,11 @@ textarea {
     .product-name a {
         position: relative;
         left: 1.5em;
-        padding: 7px 0px 3px 2px !important;
+    }
+    .prateleira .product-name {
+        display: block;
+        padding: 7px 0px 0px 2px !important;
+        position: relative;
     }
     .n4colunas ul li {
         display: inline-block;
