@@ -977,9 +977,12 @@ textarea {
         width: 100%;
         padding: 20px 15px;
         margin: 0;
-        margin-top: 2vh;
+        margin-top: 2vh !important;
         margin-bottom: 4vh !important;
         background-color: white;
+    }
+    .owl-carousel .owl-wrapper-outer {
+        left: 4px !important;
     }
 }
 
