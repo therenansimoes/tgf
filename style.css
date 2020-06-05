@@ -952,6 +952,9 @@ textarea {
         margin: 0px auto;
         display: inline-grid !important;
     }
+    .prateleira.n4colunas {
+        margin-top: 23px;
+    }
 }
 
 @media (max-width: 576px) {
