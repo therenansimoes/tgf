@@ -995,6 +995,17 @@ textarea {
     }
 }
 
+@media (min-width: 768px) {
+    .n4colunas ul li {
+        background-color: white;
+        width: 25%;
+        height: 23.78em;
+        position: relative;
+        align-items: center;
+        top: 14px;
+    }
+}
+
 
 /* @media only screen 
 and (min-device-width : 768px) 
