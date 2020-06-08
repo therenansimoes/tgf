@@ -273,7 +273,29 @@ textarea {
     padding: 0px 7px;
     border-radius: 0px;
 }
-
+.tingle-modal {
+    z-index: 99999;
+}
+.tingle-modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: -ms-flexbox;
+    display: flex;
+    visibility: hidden;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: center;
+    align-items: center;
+    overflow: hidden;
+    background: rgba(0,0,0,.8);
+    opacity: 0;
+    cursor: pointer;
+    transition: transform .2s ease;
+}
     #warn18 {
         visibility: hidden;
         color: #757575;
