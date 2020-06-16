@@ -273,9 +273,11 @@ textarea {
     padding: 0px 7px;
     border-radius: 0px;
 }
+
 .tingle-modal {
     z-index: 99999;
 }
+
 .tingle-modal {
     position: fixed;
     top: 0;
@@ -291,37 +293,38 @@ textarea {
     -ms-flex-align: center;
     align-items: center;
     overflow: hidden;
-    background: rgba(0,0,0,.8);
+    background: rgba(0, 0, 0, .8);
     opacity: 0;
     cursor: pointer;
     transition: transform .2s ease;
 }
-    #warn18 {
-        visibility: hidden;
-        color: #757575;
-        font-family: unset;
-        font-size: 21pt;
-        padding-top: 60pt;
-        background: #FFFFFF;
-        width: 440pt;
-        margin: auto;
-        opacity: 0;
-        border: solid 3px #333;
-        height: 330pt;
-    }
 
-    #warn18 span {
-        padding: 10px;
-        border: solid 3px #333;
-        margin-right: 30px;
-    }
+#warn18 {
+    visibility: hidden;
+    color: #757575;
+    font-family: unset;
+    font-size: 21pt;
+    padding-top: 60pt;
+    background: #FFFFFF;
+    width: 440pt;
+    margin: auto;
+    opacity: 0;
+    border: solid 3px #333;
+    height: 330pt;
+}
 
-    #warn18 a {
-        padding: 10px;
-        border: solid 3px #333;
-        margin-right: 30px;
-        color: #757575;
-    }
+#warn18 span {
+    padding: 10px;
+    border: solid 3px #333;
+    margin-right: 30px;
+}
+
+#warn18 a {
+    padding: 10px;
+    border: solid 3px #333;
+    margin-right: 30px;
+    color: #757575;
+}
 
 
 /** ************************************************************************************ **/
@@ -1047,7 +1050,7 @@ textarea {
 @media (min-width: 768px) {
     .n4colunas ul li {
         background-color: white;
-        width: 25%;
+        /* width: 25%; */
         height: 23.78em;
         position: relative;
         align-items: center;
