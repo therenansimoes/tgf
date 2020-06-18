@@ -1048,7 +1048,7 @@ textarea {
 }
 
 .n5colunas ul li {
-    width: 100% !important;
+    width: 87% !important;
     background: url(/arquivos/bg-destaques.png?v=637230016383730000) center/cover no-repeat;
 }
 
@@ -1088,7 +1088,6 @@ textarea {
 .owl-carousel .owl-item {
     float: none !important;
     display: inline-block !important;
-    margin-right: 20px;
 }
 
 .owl-wrapper {
@@ -1256,7 +1255,7 @@ textarea {
 }
 
 .n5colunas {
-    width: 100%;
+    width: 87%;
     min-height: 694px;
     font-family: 'Open Sans';
     position: relative;
