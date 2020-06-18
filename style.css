@@ -1256,10 +1256,9 @@ textarea {
 
 .n5colunas {
     width: 100%;
-    min-height: 694px;
+    min-height: 550px;
     font-family: 'Open Sans';
     position: relative;
-    padding: 73px 0 81px;
     margin-top: 3em;
 }
 
