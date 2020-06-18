@@ -1049,6 +1049,7 @@ textarea {
 
 .n5colunas ul li {
     width: 100% !important;
+    background: url(/arquivos/bg-destaques.png?v=637230016383730000) center/cover no-repeat;
 }
 
 @media (max-width: 768px) {
