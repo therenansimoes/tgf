@@ -1047,7 +1047,7 @@ textarea {
     }
 }
 
-.n5colunas ul li {
+.n5colunas ul li .n4colunas ul li .n3colunas ul li .n2colunas ul li .n1colunas ul li .n6colunas ul li .n7colunas ul li .n8colunas ul li .n9colunas ul li .n10colunas ul li .n11colunas ul li .n12colunas ul li {
     width: 100% !important;
     background: url(/arquivos/bg-destaques.png?v=637230016383730000) center/cover no-repeat;
 }
