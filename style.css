@@ -1047,6 +1047,10 @@ textarea {
     }
 }
 
+.n5colunas ul li {
+    width: 100% !important;
+}
+
 @media (max-width: 768px) {
     .n4colunas ul li {
         background-color: white;
