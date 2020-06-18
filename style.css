@@ -1239,6 +1239,7 @@ textarea {
     text-align: center !important;
     text-transform: capitalize !important;
     padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .box-item .product-image img {
@@ -1259,7 +1260,6 @@ textarea {
     min-height: 550px;
     font-family: 'Open Sans';
     position: relative;
-    margin-top: 3em;
     background: #f7f4ef;
 }
 
