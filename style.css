@@ -71,7 +71,7 @@ a {
     padding: 0;
     font-size: 100%;
     vertical-align: baseline;
-    background: transparent
+    background: transparent;
 }
 
 ins {
@@ -1056,7 +1056,7 @@ textarea {
     .n4colunas ul li {
         background-color: white;
         width: 87%;
-        height: 29.78em;
+        height: 31.78em;
         position: relative;
         align-items: center;
         top: 14px;
@@ -1239,7 +1239,7 @@ textarea {
     text-align: center !important;
     text-transform: capitalize !important;
     padding-top: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 4px;
 }
 
 .box-item .product-image img {
@@ -1310,7 +1310,6 @@ textarea {
 
 .prateleira .product-name {
     display: block;
-    padding: 7px 0px 0px 0px;
     position: relative;
 }
 
@@ -1327,13 +1326,14 @@ textarea {
     font-size: 16px !important;
     font-weight: 700 !important;
     color: #434343 !important;
-    margin-top: 3px !important;
     margin-bottom: 0px !important;
     line-height: 20px !important;
+    width: 89%;
 }
 
 .prateleira .price {
     display: block;
+    margin-left: 17px;
 }
 
 
@@ -1343,8 +1343,7 @@ textarea {
 
 .owl-item li {
     background: white;
-    height: 34em;
-    padding-top: 9px;
+    height: 31em;
     width: 87%;
     /* display: inline-flex; */
     margin: 0em 21px !important;
@@ -1353,7 +1352,7 @@ textarea {
 }
 
 .prateleira .price a {
-    display: block;
+    display: inline-block;
     text-decoration: none;
 }
 
@@ -1395,7 +1394,7 @@ textarea {
 
 .wrapper-buy-button-asynchronous .add a {
     padding: 11px 0px;
-    margin: 0px auto;
+    margin: -7px auto;
     display: block;
     color: #fff;
     background-color: #7fbc44;
