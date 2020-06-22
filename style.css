@@ -1320,6 +1320,7 @@ textarea {
     margin: 0px auto !important;
     line-height: 20px !important;
     text-align: left !important;
+    width: 89%;
 }
 
 .n4colunas ul li .box-item .product-name a h2 {
