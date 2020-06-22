@@ -1086,7 +1086,7 @@ textarea {
 }
 
 .owl-carousel .owl-item {
-    float: none !important;
+    /* float: none !important; */
     display: inline-block !important;
 }
 
@@ -1346,7 +1346,7 @@ textarea {
     height: 30em;
     padding-top: 9px;
     width: 87%;
-    display: inline-flex;
+    /* display: inline-flex; */
     margin: 0em 21px !important;
     box-shadow: 0px 4px 5px 0 rgba(0, 0, 0, .1);
     position: relative;
@@ -1395,7 +1395,7 @@ textarea {
 
 .wrapper-buy-button-asynchronous .add a {
     padding: 11px 0px;
-    margin: 2px auto;
+    margin: 0px auto;
     display: block;
     color: #fff;
     background-color: #7fbc44;
