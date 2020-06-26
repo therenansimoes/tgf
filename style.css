@@ -3685,10 +3685,10 @@ section#product-content {
     .n4colunas>ul>li,
     .n5colunas>ul>li {
         width: 23.3333%;
-        padding: 18px 15px 0 18px;
+        padding: 21px 15px 0 18px;
         box-shadow: 0 6px 6px 0 rgba(0, 0, 0, .1);
         background: white;
-        height: 384px;
+        height: 340px;
         margin: 13px 14px 0 0;
         position: relative;
     }
