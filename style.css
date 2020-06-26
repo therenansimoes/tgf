@@ -2106,7 +2106,7 @@ section#product-content {
 
 .owl-wrapper-outer .owl-wrapper {
     /* position: relative; */
-    height: 37em;
+    height: 100%;
     overflow-x: hidden;
 }
 
