@@ -1092,14 +1092,12 @@ textarea {
 
 .owl-wrapper {
     display: inline-block !important;
-    height: 100em;
+    top: 2em;
+    height: 32em;
 }
 
 .owl-carousel .owl-wrapper-outer {
     display: inline-block !important;
-    height: 32em;
-    position: relative;
-    top: 2em;
 }
 
 .owl-controls .owl-pagination {
