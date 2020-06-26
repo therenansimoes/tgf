@@ -1244,8 +1244,11 @@ textarea {
 
 .box-item .product-image img {
     max-width: 66%;
-    margin: 0px 0px 0px 2vw;
     height: auto;
+    position: relative;
+    top: 50%;
+    left: 20%;
+    align-items: center;
 }
 
 .prateleira.vitrine>ul {
