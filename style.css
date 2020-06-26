@@ -1092,7 +1092,7 @@ textarea {
 
 .owl-wrapper {
     display: inline-block !important;
-    height: 35em;
+    height: 35em !important;
 }
 
 .owl-carousel .owl-wrapper-outer {
