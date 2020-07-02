@@ -144,22 +144,16 @@ $(document).ready(function() {
         }
 
     }
+
     var isshow = localStorage.getItem('isshow');
-    var valor = "";
-    $(".yes").click(function(){
-        valor = $(".yes").text();
-    });
-    
-    if(valor == "Sim"){
+    if (isshow == null) {
         localStorage.setItem('isshow', 1);
-        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-        $(".lockscreen2").remove();
-    }else if(isshow == 1){
-        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-        $(".lockscreen2").remove();
-    }else if (isshow == null){
+
+        // Show popup here
         $('#warn18').css({ 'visibility': 'visible', 'opacity': 1 })
     }
-    
+    $('#warn18 span').click(function() {
+        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
+    });
 
 });
