@@ -144,22 +144,18 @@ $(document).ready(function() {
         }
 
     }
-    var isshow = localStorage.getItem('isshow');
-    var valor = "";
-    $(".yes").click(function(){
-        valor = $(".yes").text();
-    });
     
-    if(valor == "Sim"){
-        localStorage.setItem('isshow', 1);
-        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-        $(".lockscreen2").remove();
-    }else if(isshow == 1){
-        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-        $(".lockscreen2").remove();
-    }else if (isshow == null){
+    
+    var valor = localStorage.getItem('permissionAge');
+    if (valor == 'false' || valor == null) {
         $('#warn18').css({ 'visibility': 'visible', 'opacity': 1 })
     }
-    
-
+    $(".yes").click(function() {
+        localStorage.setItem('permissionAge', true);
+        valor = localStorage.getItem('permissionAge');
+        if (valor == 'true') {
+            $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
+            $(".lockscreen2").remove();
+        }
+    });
 });
