@@ -149,6 +149,9 @@ $(document).ready(function() {
     var valor = localStorage.getItem('permissionAge');
     if (valor == 'false' || valor == null) {
         $('#warn18').css({ 'visibility': 'visible', 'opacity': 1 })
+    }else{
+        $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
+        $(".lockscreen2").remove();
     }
     $(".yes").click(function() {
         localStorage.setItem('permissionAge', true);
