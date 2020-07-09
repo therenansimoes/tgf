@@ -149,9 +149,10 @@ $(document).ready(function() {
     var valor = localStorage.getItem('permissionAge');
     if (valor == 'false' || valor == null) {
         $('#warn18').css({ 'visibility': 'visible', 'opacity': 1 });
+        $('#idade').addClass('lockscreen2');
     }else if(valor == 'true'){
         $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-        $(".lockscreen2").attr("class", false);
+        $('#idade').removeClass('lockscreen2');
     }
 
     $(".yes").click(function() {
@@ -159,7 +160,7 @@ $(document).ready(function() {
         valor = localStorage.getItem('permissionAge');
         if (valor == 'true') {
             $('#warn18').css({ 'visibility': 'hidden', 'opacity': 0 });
-            $(".lockscreen2").attr("class", false);
+            $('#idade').removeClass('lockscreen2');
         }
     });
 });
