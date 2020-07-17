@@ -3702,6 +3702,9 @@ section#product-content {
         margin: 13px 14px 0 0;
         position: relative;
     }
+    #sale-destaque ul li{
+        height: 355px !important;
+    }
 }
 
 @media ( min-width: 1200px) {
