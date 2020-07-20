@@ -468,7 +468,7 @@ textarea {
 .mini-cart-xs {
     float: right;
     position: relative;
-    bottom: 6em;
+    bottom: -3em;
 }
 
 .header .mini-cart {
@@ -668,15 +668,13 @@ textarea {
 
 .header .search .busca {}
 
+/* Alterações para dia dos pais */
 @media (max-width: 767px){
     .header .search .fulltext-search-box {
         margin-top: 30px !important;
     }
     .header .search .btn-buscar{
         margin-top: 30px !important;
-    }
-    .header .mini-cart .btn{
-        bottom: 38px !important;
     }
 }
 
