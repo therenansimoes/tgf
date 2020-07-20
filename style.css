@@ -3637,6 +3637,9 @@ section#product-content {
     .header .logo {
         text-align: left;
     }
+    .selo-pai a img{
+        width: 88% !important;
+    }
     .header .search {
         margin-top: 0;
     }
