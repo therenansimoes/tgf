@@ -668,6 +668,18 @@ textarea {
 
 .header .search .busca {}
 
+@media (max-width: 767px){
+    .header .search .fulltext-search-box {
+        margin-top: 30px !important;
+    }
+    .header .search .btn-buscar{
+        margin-top: 30px !important;
+    }
+    .header .mini-cart .btn{
+        bottom: 38px !important;
+    }
+}
+
 .header .search .fulltext-search-box {
     color: #999999;
     background-color: #fff;
